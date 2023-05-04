@@ -1,0 +1,2787 @@
+details_id,invirement,skills,hr_name,company_id
+1001,Full time,Java,Omkar Sonawane,50074
+1002,Full time,Java,Omkar Sonawane,50074
+1003,Full time,Java,Omkar Sonawane,50069
+1004,part time,Power BI,Omkar Sonawane,50110
+1005,Full time,Power BI,Omkar Sonawane,50110
+1006,Full time,Power BI,Omkar Sonawane,50110
+1007,Full time,Data Warehousing,Omkar Sonawane,50311
+1008,part time,Java,Omkar Sonawane,50069
+1009,Full time,Java,Omkar Sonawane,50069
+1010,Full time,Java,Omkar Sonawane,50069
+1011,Full time,Java,Omkar Sonawane,50069
+1012,part time,Java,Omkar Sonawane,50317
+1013,Full time,Java,Omkar Sonawane,50317
+1014,Full time,Java,Omkar Sonawane,50317
+1015,Full time,Java,Omkar Sonawane,50317
+1016,part time,Java,Omkar Sonawane,50317
+1017,Full time,Java,Omkar Sonawane,50317
+1018,Full time,Java,Omkar Sonawane,50317
+1019,Full time,Java,Omkar Sonawane,50317
+1020,part time,Java,Omkar Sonawane,50069
+1021,Full time,Java,Omkar Sonawane,50069
+1022,Full time,Java,Omkar Sonawane,50069
+1023,Full time,Java,Omkar Sonawane,50069
+1024,part time,Java,Omkar Sonawane,50444
+1025,Full time,Java,Omkar Sonawane,50069
+1026,Full time,Java,Omkar Sonawane,50074
+1027,Full time,Java,Omkar Sonawane,50069
+1028,part time,Java,Omkar Sonawane,50069
+1029,Full time,Data Warehousing,Omkar Sonawane,50311
+1030,Full time,Java,Omkar Sonawane,50069
+1031,Full time,Java,Omkar Sonawane,50069
+1032,part time,Java,Omkar Sonawane,50069
+1033,Full time,Java,Omkar Sonawane,50069
+1034,Full time,Java,Omkar Sonawane,50074
+1035,Full time,Java,Omkar Sonawane,50514
+1036,part time,Java,Omkar Sonawane,50074
+1037,Full time,Java,Omkar Sonawane,50074
+1038,Full time,Java,Omkar Sonawane,50074
+1039,Full time,Java,Omkar Sonawane,50069
+1040,part time,Java,Omkar Sonawane,50069
+1041,Full time,Java,Omkar Sonawane,50069
+1042,Full time,Java,Omkar Sonawane,50779
+1043,Full time,Java,Omkar Sonawane,50779
+1044,part time,Java,Omkar Sonawane,50069
+1045,Full time,Data Warehousing,Omkar Sonawane,50311
+1046,Full time,Java,Omkar Sonawane,50069
+1047,Full time,Java,Omkar Sonawane,50069
+1048,part time,Embedded C,Omkar Sonawane,50888
+1049,Full time,Java,Omkar Sonawane,50069
+1050,Full time,Java,Omkar Sonawane,50069
+1051,Full time,Java,Omkar Sonawane,50069
+1052,part time,Java,Omkar Sonawane,50069
+1053,Full time,Java,Omkar Sonawane,50069
+1054,Full time,Embedded C,Omkar Sonawane,50888
+1055,Full time,Embedded C,Omkar Sonawane,50888
+1056,part time,Embedded C,Omkar Sonawane,50888
+1057,Full time,Embedded C,Omkar Sonawane,50888
+1058,Full time,Embedded C,Omkar Sonawane,50888
+1059,Full time,Embedded C,Omkar Sonawane,50888
+1060,part time,Embedded C,Omkar Sonawane,50888
+1061,Full time,Embedded C,Omkar Sonawane,50888
+1062,Full time,Embedded C,Omkar Sonawane,50888
+1063,Full time,Java,Omkar Sonawane,50069
+1064,part time,Java,Omkar Sonawane,50069
+1065,Full time,Embedded C,Omkar Sonawane,50888
+1066,Full time,Embedded C,Omkar Sonawane,50888
+1067,Full time,Embedded C,Omkar Sonawane,50888
+1068,part time,Java,Omkar Sonawane,50074
+1069,Full time,Java,Omkar Sonawane,50074
+1070,Full time,Java,Omkar Sonawane,50069
+1071,Full time,Java,Omkar Sonawane,50074
+1072,part time,Java,Omkar Sonawane,50069
+1073,Full time,Cloud Security,Nikita Sah,50001
+1074,Full time,Business Development,Diksha Jhingran,50002
+1075,Full time,Java,Prathamlok,50004
+1076,part time,Java,Navya C M,50006
+1077,Full time,C#,Ankit Sinha,50008
+1078,Full time,C#,Ankit Sinha,50008
+1079,Full time,ATL,Dev Sharma,50010
+1080,part time,ATL,Dev Sharma,50010
+1081,Full time,ATL,Dev Sharma,50010
+1082,Full time,ATL,Dev Sharma,50010
+1083,Full time,Java,Vishakha Tyagi,50011
+1084,part time,Data Analysis,Ekta Sachdeva,50012
+1085,Full time,Sales,Karthik Aj,50013
+1086,Full time,Java,Ankit Sinha,50014
+1087,Full time,C#,Ankit Sinha,50008
+1088,part time,Flutter,Shruti Verma,50015
+1089,Full time,Node.js,Ritika Pokhriyal,50016
+1090,Full time,Java,Hem Chandra Kar,50017
+1091,Full time,Java,Hem Chandra Kar,50017
+1092,part time,Sales,Karthik Aj,50013
+1093,Full time,Java,Ankit Sinha,50014
+1094,Full time,Python,Aarti Singh,50022
+1095,Full time,GraphQL,Naveen Kumar,50026
+1096,part time,GraphQL,Naveen Kumar,50026
+1097,Full time,GraphQL,Naveen Kumar,50026
+1098,Full time,GraphQL,Naveen Kumar,50026
+1099,Full time,Content Marketing,Preeti Chhetri,50027
+1100,part time,Machine Learning,Pinnacle Consultz,50028
+1101,Full time,Graphic Design,Pooja V Chalageri,50029
+1102,Full time,Power BI,Navya C M,50032
+1103,Full time,Content Marketing,Preeti Chhetri,50027
+1104,part time,Java,Arun Lazar Jebamani Joseph,50035
+1105,Full time,Python,Careers Caw,50037
+1106,Full time,Java,Akriti Dwivedi,50043
+1107,Full time,JavaScript,Akshatha Ks,50044
+1108,part time,JavaScript,Akshatha Ks,50044
+1109,Full time,AWS,Shalini Jakhar,50046
+1110,Full time,AWS,Shalini Jakhar,50046
+1111,Full time,JavaScript,Akshatha Ks,50044
+1112,part time,JavaScript,Archana S Menon,50052
+1113,Full time,Distributed Systems,Ravi Dubey,50053
+1114,Full time,DevOps,Madhavi Dixit,50054
+1115,Full time,Microsoft Excel,Selvendran K,50055
+1116,part time,JavaScript,Ayushi Srivastava,50056
+1117,Full time,Business Development,Astha Singh,50061
+1118,Full time,Distributed Systems,Ravi Dubey,50053
+1119,Full time,Distributed Systems,Ravi Dubey,50062
+1120,part time,CI - CD,Nikitaa P,50065
+1121,Full time,CI - CD,Nikitaa P,50065
+1122,Full time,Python,Aarti Singh,50022
+1123,Full time,Compensation Management,Silita Simantika,50066
+1124,part time,Java,Omkar Sonawane,50069
+1125,Full time,Distributed Systems,Ravi Dubey,50062
+1126,Full time,Distributed Systems,Ravi Dubey,50062
+1127,Full time,.NET,Kalpna Farswan,50070
+1128,part time,Java,Priyanka A G,50075
+1129,Full time,Java,Abhishek Thakur,50076
+1130,Full time,React Native,Reshma Gutha,50077
+1131,Full time,Java,Manjari Rastogi,50078
+1132,part time,Java,Sunil Sethi,50081
+1133,Full time,Inventory Management,Noopur Shukla,50083
+1134,Full time,Microsoft Excel,Aafrin Sultanak,50084
+1135,Full time,React.js,Kalpna Farswan,50087
+1136,part time,Direct Sales,Ankit Y,50089
+1137,Full time,Kubernetes,Anoushka Goswami,50092
+1138,Full time,Java,Madhavi Dixit,50093
+1139,Full time,Python,Upasana Kayal,50094
+1140,part time,.NET,Kalpna Farswan,50070
+1141,Full time,Business Development,Marsina Waffa,50095
+1142,Full time,Java,Sudhindra MG Rao Sudhi,50096
+1143,Full time,Java,Omkar Sonawane,50069
+1144,part time,Manual Testing,Manish Nirwal,50099
+1145,Full time,Manual Testing,Manish Nirwal,50099
+1146,Full time,OSCP,Gunjan Goyal,50103
+1147,Full time,JavaScript,Sujana V,50104
+1148,part time,Data Mining,Anita Mariam Jacob,50105
+1149,Full time,Consumer Software,Meenakshi Joshi,50106
+1150,Full time,Java,Arun Lazar Jebamani Joseph,50035
+1151,Full time,Java,Arun Lazar Jebamani Joseph,50035
+1152,part time,Java,Arun Lazar Jebamani Joseph,50035
+1153,Full time,Power BI,Omkar Sonawane,50110
+1154,Full time,Java,Krishna Chaitanya Reddy Katta KC,50112
+1155,Full time,Python,Seemi Ejaz,50113
+1156,part time,Python,Meenal Sharma,50114
+1157,Full time,Consumer Software,Meenakshi Joshi,50106
+1158,Full time,Java,Omkar Sonawane,50069
+1159,Full time,Java,Madhusmita M,50118
+1160,part time,Python,Meenal Sharma,50114
+1161,Full time,Java,Archana Tr,50120
+1162,Full time,Java,Omkar Sonawane,50074
+1163,Full time,Java,Omkar Sonawane,50074
+1164,part time,Java,Omkar Sonawane,50074
+1165,Full time,Python,Shweta Agrawal,50123
+1166,Full time,Python,Shweta Agrawal,50123
+1167,Full time,iOS,Nikita Sah,50126
+1168,part time,Python,Akshatha Hydri,50131
+1169,Full time,C#,Fatma,50133
+1170,Full time,JavaScript,Ayushi Srivastava,50056
+1171,Full time,Java,Arun Lazar Jebamani Joseph,50035
+1172,part time,Sales,Atul Kumar,50135
+1173,Full time,Golang,Shashwat Shukla,50136
+1174,Full time,Distributed Systems,Ravi Dubey,50062
+1175,Full time,Node.js,Nikita Gandhi,50137
+1176,part time,C#,Fatma,50133
+1177,Full time,Selenium,Pardeep Singh,50139
+1178,Full time,C++,Khalid,50140
+1179,Full time,Adobe Creative Cloud,Rashmi Rao,50141
+1180,part time,Java,Lithin Raj,50144
+1181,Full time,Java,Savita Sarangi,50086
+1182,Full time,Java,Ankit Sinha,50014
+1183,Full time,JavaScript,Raj Pandit,50145
+1184,part time,iOS,Nikita Sah,50126
+1185,Full time,iOS,Nikita Sah,50126
+1186,Full time,Python,Reshma Dsouza,50147
+1187,Full time,Power BI,Navya C M,50032
+1188,part time,Java,Ankit Sinha,50014
+1189,Full time,Java,Ankit Sinha,50014
+1190,Full time,Java,Keerthi K,50150
+1191,Full time,Content Marketing,Madan Raj,50154
+1192,part time,Java,Sneha Halimani,50158
+1193,Full time,Java,Sumitabh Ghosh,50161
+1194,Full time,Business Development,Chirag Hirani,50162
+1195,Full time,Python,Navya C M,50166
+1196,part time,JavaScript,Aishwarya Tandon,50171
+1197,Full time,Java,Likhitha B N,50172
+1198,Full time,Kotlin,Ashwin N,50174
+1199,Full time,Java,Asha L,50034
+1200,part time,Java,Sunil Sethi,50081
+1201,Full time,Java,Vishakha Tyagi,50011
+1202,Full time,Java,Meghashree Ramesh,50178
+1203,Full time,Java,Anandamoyee Nandiroy,50181
+1204,part time,Golang,Mahima,50183
+1205,Full time,Python,Aarti Singh,50022
+1206,Full time,.NET,Deval Talati Shah,50184
+1207,Full time,Manual Testing,Manish Nirwal,50099
+1208,part time,Java,Lithin Raj,50144
+1209,Full time,Java,Navdeep Kaur,50186
+1210,Full time,Java,Asha L,50034
+1211,Full time,Python,Nisha Sharma,50187
+1212,part time,Java,Ramya Tanya,50188
+1213,Full time,GST,Fathima Zoya,50197
+1214,Full time,Direct Sales,Ankit Y,50089
+1215,Full time,Direct Sales,Ankit Y,50089
+1216,part time,GST,Fathima Zoya,50197
+1217,Full time,Java,Aditi Tyagi,50199
+1218,Full time,Java,Riya Prasad,50200
+1219,Full time,Machine Learning,Rashmi Srivastava,50202
+1220,part time,Machine Learning,Rashmi Srivastava,50202
+1221,Full time,Distributed Systems,Ravi Dubey,50062
+1222,Full time,Java,Anandamoyee Nandiroy,50181
+1223,Full time,React.js,Kalpna Farswan,50087
+1224,part time,React.js,Kalpna Farswan,50087
+1225,Full time,SAP ERP,Sachin K J,50164
+1226,Full time,Java,Navya C M,50006
+1227,Full time,React.js,Akshitha M HR Talent Acquisition,50206
+1228,part time,Business Development,Manzar Imam,50207
+1229,Full time,Business Development,Manzar Imam,50207
+1230,Full time,Sales,Talent Acquisition Team,50209
+1231,Full time,React.js,Akshitha M HR Talent Acquisition,50206
+1232,part time,Java,Shivani Garg,50167
+1233,Full time,Java,Ramya Tanya,50188
+1234,Full time,Java,Ramya Tanya,50188
+1235,Full time,Java,Ramya Tanya,50188
+1236,part time,Angular,Osama Khan,50216
+1237,Full time,Java,Raghu Tenneti,50101
+1238,Full time,Java,Ramya Tanya,50188
+1239,Full time,Java,Riya Prasad,50200
+1240,part time,CI - CD,Shama Afroj,50222
+1241,Full time,Java,Archana Tr,50120
+1242,Full time,Power BI,Kirthika T,50218
+1243,Full time,Cloud Security,Nikita Sah,50001
+1244,part time,Node.js,Gangadhara Reddy,50155
+1245,Full time,Node.js,Gangadhara Reddy,50155
+1246,Full time,Java,Navya C M,50006
+1247,Full time,Java,Archana Tr,50120
+1248,part time,Java,Navya C M,50006
+1249,Full time,Linux,Satyajit Kumar Mittra,50229
+1250,Full time,Java,Raghu Tenneti,50101
+1251,Full time,Java,Angelina Tiwari,50109
+1252,part time,Java,Angelina Tiwari,50109
+1253,Full time,Node.js,Gangadhara Reddy,50155
+1254,Full time,Java,Tanvi Sinha,50231
+1255,Full time,Python,Seemi Ejaz,50233
+1256,part time,React.js,Akshitha M HR Talent Acquisition,50206
+1257,Full time,Product Management,Sirin Riaz,50234
+1258,Full time,Node.js,Ramya Shetty,50235
+1259,Full time,Java,Sunil Sethi,50081
+1260,part time,Linux,Nirmala N Naik,50237
+1261,Full time,Java,Selvi U,50129
+1262,Full time,Java,Vishakha Tyagi,50011
+1263,Full time,Node.js,Gangadhara Reddy,50155
+1264,part time,Financial Analysis,Karthik T,50242
+1265,Full time,Java,Avinash Ks,50243
+1266,Full time,Java,Raghu Tenneti,50101
+1267,Full time,Java,Raghu Tenneti,50101
+1268,part time,Java,Raghu Tenneti,50101
+1269,Full time,Flutter,Anoushka Goswami,50246
+1270,Full time,Java,Angelina Tiwari,50109
+1271,Full time,Java,Saranya R,50252
+1272,part time,Python,Talent Acquisition Line,50185
+1273,Full time,.NET,Kalpna Farswan,50070
+1274,Full time,JavaScript,Career S,50254
+1275,Full time,JavaScript,Career S,50254
+1276,part time,JavaScript,Vinod Kumar,50255
+1277,Full time,Node.js,Gangadhara Reddy,50155
+1278,Full time,Node.js,Gangadhara Reddy,50155
+1279,Full time,Node.js,Gangadhara Reddy,50155
+1280,part time,Node.js,Gangadhara Reddy,50155
+1281,Full time,Java,Selvi U,50129
+1282,Full time,Java,Akriti Dwivedi,50043
+1283,Full time,Android,Aneesa Pathan,50261
+1284,part time,Engineering Management,Sandhiya S,50262
+1285,Full time,Java,Rahul Prakash,50263
+1286,Full time,Java,Esha Jain,50266
+1287,Full time,Java,Shoyeeb Ahamed Magami,50268
+1288,part time,Python,Muskan Grover,50270
+1289,Full time,C,Smrudhi Gauns,50273
+1290,Full time,React.js,Nikita Joshi,50274
+1291,Full time,Java,Omkar Sonawane,50069
+1292,part time,Java,Aneesh Vikram,50275
+1293,Full time,Java,Aneesh Vikram,50275
+1294,Full time,Category Management,Ekta V,50276
+1295,Full time,Python,Muskan Grover,50270
+1296,part time,Python,Kavya Dodda,50272
+1297,Full time,Node.js,Gangadhara Reddy,50155
+1298,Full time,Java,Omkar Sonawane,50074
+1299,Full time,Java,Angelina Tiwari,50109
+1300,part time,Java,Akriti Dwivedi,50043
+1301,Full time,Java,Aneesh Vikram,50275
+1302,Full time,Automation Testing,Bhawana Singh,50283
+1303,Full time,Automation Testing,Bhawana Singh,50283
+1304,part time,MongoDB,Aishwarya Rana,50285
+1305,Full time,Java,Avinash Ks,50243
+1306,Full time,Visual Design,Lakshmi Reddy,50286
+1307,Full time,Java,Aneesh Vikram,50275
+1308,part time,Java,Priyanka Paul,50227
+1309,Full time,Digital Marketing,Jai Prakash,50287
+1310,Full time,CSS,Sabina Sultana,50289
+1311,Full time,Java,Niharika Sharma,50295
+1312,part time,Java,Navdeep Kaur,50186
+1313,Full time,Python,Shweta Agrawal,50123
+1314,Full time,Java,Niharika Sharma,50295
+1315,Full time,Java,Niharika Sharma,50295
+1316,part time,Java,Selvi U,50129
+1317,Full time,Python,Navya C M,50166
+1318,Full time,Java,Ankit Sinha,50014
+1319,Full time,PHP,Selvakumar S,50260
+1320,part time,Java,Archana Tr,50120
+1321,Full time,Java,Archana Tr,50120
+1322,Full time,Java,Selvi U,50129
+1323,Full time,React.js,Adharsh A,50302
+1324,part time,Java,Priyanka Paul,50227
+1325,Full time,Python,Meenal Sharma,50114
+1326,Full time,UML,Saksham Sharma,50304
+1327,Full time,Salesforce Service Cloud,Sneha Khandelwal,50307
+1328,part time,Java,Oshin Garg,50310
+1329,Full time,DevOps,Mythili Achappa,50313
+1330,Full time,JavaScript,Rovena Dsouza,50314
+1331,Full time,Java,Oshin Garg,50310
+1332,part time,Product Management,Sindhuja,50315
+1333,Full time,Python,Sweta Barman,50316
+1334,Full time,Java,Omkar Sonawane,50069
+1335,Full time,Game Development,Rajan Gupta,50321
+1336,part time,Brand Management,Madhuri Sandur,50322
+1337,Full time,Cloud Security,Nikita Sah,50001
+1338,Full time,Cloud Security,Nikita Sah,50001
+1339,Full time,Java,Vishakha Tyagi,50011
+1340,part time,Agile,Supriya Vijay,50325
+1341,Full time,Python,Navya C M,50166
+1342,Full time,Automotive Embedded Systems,Sunil Gupta,50327
+1343,Full time,JavaScript,Raj Pandit,50145
+1344,part time,Java,Akriti Dwivedi,50043
+1345,Full time,Cloud Security,Nikita Sah,50001
+1346,Full time,HR Analytics,Jai Nayak,50330
+1347,Full time,Agile,Sweta Sharma,50331
+1348,part time,Content Writing,Akshaya Gupta,50332
+1349,Full time,Content Marketing,Akshit Rungta,50333
+1350,Full time,Content Marketing,Akshit Rungta,50333
+1351,Full time,Business Development,Preety,50335
+1352,part time,Adobe Experience Manager (AEM),Mirza Begum,50337
+1353,Full time,SharePoint,Udeshna Boruah Kalita,50338
+1354,Full time,Java,Raghu Tenneti,50101
+1355,Full time,Java,Priyanka Kaushal,50340
+1356,part time,Maximo,Priyanka Paul,50319
+1357,Full time,DICOM,Harshitha S,50134
+1358,Full time,SharePoint,Udeshna Boruah Kalita,50338
+1359,Full time,Java,Sunil Sethi,50081
+1360,part time,Cognos Framework Manager,Aruna Bahuguna,50345
+1361,Full time,Java,Sweta Barman,50346
+1362,Full time,Customer Interaction,Celina Mittal,50347
+1363,Full time,Android,Khushi Dubey,50350
+1364,part time,Business Development,Mrunal Kankal,50351
+1365,Full time,Java,Shoyeeb Ahamed Magami,50268
+1366,Full time,WPF,Kartik M,50355
+1367,Full time,JavaScript,Sujana V,50104
+1368,part time,AWS,Suman Aditya Behera,50360
+1369,Full time,Java,Shoyeeb Ahamed Magami,50268
+1370,Full time,.NET,Kalpna Farswan,50070
+1371,Full time,JavaScript,Smita Satapathy,50363
+1372,part time,DevOps,Mythili Achappa,50313
+1373,Full time,UX Design,Arjun Adlakha,50365
+1374,Full time,ISO 27001,Shubham,50368
+1375,Full time,DevOps,Mythili Achappa,50313
+1376,part time,Android,Richa Mishra,50370
+1377,Full time,Java,Shelly Biswas,50371
+1378,Full time,Node.js,Ramya Shetty,50235
+1379,Full time,React.js,Gunjan Anand,50372
+1380,part time,Python,Seemi Ejaz,50113
+1381,Full time,Java,Selvi U,50129
+1382,Full time,BFSI,Jayasuma M,50373
+1383,Full time,.NET,Rituparna Borah,50374
+1384,part time,.NET,Rituparna Borah,50374
+1385,Full time,React.js,Gunjan Anand,50372
+1386,Full time,Java,Reno Mathew,50375
+1387,Full time,Azure,Sonica Singh,50377
+1388,part time,Google Cloud,Akshatha Hydri,50378
+1389,Full time,Java,Rishita Banerjee,50380
+1390,Full time,Java,Archana Tr,50120
+1391,Full time,Flutter,Anoushka Goswami,50246
+1392,part time,SQL,Blessy Fernandes,50381
+1393,Full time,Java,Rishita Banerjee,50380
+1394,Full time,Google Ads,Kumar K,50385
+1395,Full time,Business Development,Mrunal Kankal,50351
+1396,part time,Java,Asha L,50034
+1397,Full time,Cloud Security,Nikita Sah,50001
+1398,Full time,Java,Vishakha Tyagi,50011
+1399,Full time,Java,Sneha Halimani,50158
+1400,part time,Distributed Systems,Ravi Dubey,50053
+1401,Full time,Distributed Systems,Ravi Dubey,50062
+1402,Full time,Java,Raghu Tenneti,50101
+1403,Full time,Java,Raghu Tenneti,50101
+1404,part time,Node.js,Gangadhara Reddy,50155
+1405,Full time,Photoshop,Anoushka Goswami,50390
+1406,Full time,Product Management,Ashmita Kumari,50198
+1407,Full time,Python,Reshma Dsouza,50147
+1408,part time,Apex,Jiby Thomas,50393
+1409,Full time,Java,Garnet Chaves,50395
+1410,Full time,React Native,Ravindra Rathod,50397
+1411,Full time,Cloud Computing,Swapnil Nautiyal,50398
+1412,part time,Java,Omkar Sonawane,50069
+1413,Full time,Java,Omkar Sonawane,50069
+1414,Full time,Java,Vishakha Tyagi,50011
+1415,Full time,Distributed Systems,Ravi Dubey,50053
+1416,part time,Java,Akriti Singh,50405
+1417,Full time,Java,Avinash Ks,50243
+1418,Full time,Java,Omkar Sonawane,50069
+1419,Full time,Build Tools,Bhavya Shah,50408
+1420,part time,Angular,Osama Khan,50216
+1421,Full time,Corporate Sales,Shikha Chauhan,50409
+1422,Full time,Sales,Vignesvaran Ar,50412
+1423,Full time,Manual Testing,Akshaja Manoharan,50413
+1424,part time,Apex,Jiby Thomas,50393
+1425,Full time,Hadoop,Vamika Malhotra,50415
+1426,Full time,JMeter,Ankit Dhiman,50416
+1427,Full time,DevOps,Mythili Achappa,50313
+1428,part time,Automotive Embedded Systems,Sunil Gupta,50327
+1429,Full time,Android,Sreya Mazumdar,50418
+1430,Full time,Java,Riya Prasad,50200
+1431,Full time,Java,Aneesh Vikram,50275
+1432,part time,Java,Priyanka A G,50075
+1433,Full time,Java,Priyanka A G,50075
+1434,Full time,React.js,Akshitha M HR Talent Acquisition,50206
+1435,Full time,Customer Service,Hr Team,50422
+1436,part time,Java,Priyanka A G,50075
+1437,Full time,Java,Priyanka A G,50075
+1438,Full time,Java,Priyanka A G,50075
+1439,Full time,Java,Priyanka A G,50075
+1440,part time,Java,Priyanka A G,50075
+1441,Full time,Java,Priyanka A G,50075
+1442,Full time,Java,Priyanka A G,50075
+1443,Full time,Business Development,Pritam Thakur,50425
+1444,part time,Java,Priyanka A G,50075
+1445,Full time,Business Development,Advita Karkera,50426
+1446,Full time,Java,Pallavi Choudhary,50427
+1447,Full time,Java,Pallavi Choudhary,50427
+1448,part time,Java,Niharika Sharma,50295
+1449,Full time,Java,Aneesh Vikram,50275
+1450,Full time,Java,Aneesh Vikram,50275
+1451,Full time,React.js,Akshitha M HR Talent Acquisition,50206
+1452,part time,Content Marketing,Swati Kapur,50429
+1453,Full time,Angular,Priyansha Arora Sheher,50431
+1454,Full time,Java,Aneesh Vikram,50275
+1455,Full time,Java,Aneesh Vikram,50275
+1456,part time,Java,Aneesh Vikram,50275
+1457,Full time,Anaplan,Pallavi Padhy,50433
+1458,Full time,Content Marketing,Bharath Br,50435
+1459,Full time,Content Marketing,Bharath Br,50435
+1460,part time,Content Marketing,Swati Kapur,50429
+1461,Full time,Back Office Operations,Meenal Sharma,50439
+1462,Full time,DevOps,Hari Shankar,50440
+1463,Full time,DevOps,Hari Shankar,50440
+1464,part time,DevOps,Hari Shankar,50440
+1465,Full time,SAP FICO,Venkatesh Palani,50192
+1466,Full time,Java,Selvi U,50129
+1467,Full time,DevOps,Hari Shankar,50440
+1468,part time,DevOps,Hari Shankar,50440
+1469,Full time,DevOps,Hari Shankar,50440
+1470,Full time,DevOps,Hari Shankar,50440
+1471,Full time,Java,Omkar Sonawane,50074
+1472,part time,Sales,Consult Bae,50442
+1473,Full time,SharePoint,Udeshna Boruah Kalita,50338
+1474,Full time,DevOps,Hari Shankar,50440
+1475,Full time,SDET,Narkish M,50452
+1476,part time,Sales,Priyanka,50453
+1477,Full time,DevOps,Hari Shankar,50440
+1478,Full time,HR Operations,Shilpi Lalotra,50456
+1479,Full time,Java,Krishanu B,50457
+1480,part time,Java,Navya C M,50006
+1481,Full time,Python,Shweta Agrawal,50123
+1482,Full time,.NET,Kalpna Farswan,50070
+1483,Full time,Python,Qikrecruit,50458
+1484,part time,Python,Qikrecruit,50458
+1485,Full time,Java,Sunil Sethi,50081
+1486,Full time,Ruby on Rails,Sai Sahitya V,50461
+1487,Full time,JavaScript,Raj Pandit,50145
+1488,part time,JavaScript,Raj Pandit,50145
+1489,Full time,Node.js,Qikrecruit,50464
+1490,Full time,Java,Akriti Singh,50405
+1491,Full time,Java,Vishakha Tyagi,50011
+1492,part time,Java,Sneha Halimani,50158
+1493,Full time,Java,Navya C M,50006
+1494,Full time,Postman,Richa Upadhyay,50465
+1495,Full time,Big Data,Dharya Aggarwal,50466
+1496,part time,Automation Testing,Bhawana Singh,50283
+1497,Full time,Java,Prakhar Mehrotra,50467
+1498,Full time,Node.js,Gangadhara Reddy,50155
+1499,Full time,Python,Agniv Debnath,50308
+1500,part time,Java,Sravani I,50470
+1501,Full time,Java,Sravani I,50470
+1502,Full time,React.js,Kalpna Farswan,50087
+1503,Full time,JavaScript,Raj Pandit,50145
+1504,part time,Java,Akansha Gupta,50474
+1505,Full time,JavaScript,Archana S Menon,50052
+1506,Full time,MySQL,Rajni Thakur,50406
+1507,Full time,Node.js,Anoushka Goswami,50475
+1508,part time,Java,Sarbanee Nayak,50477
+1509,Full time,Python,Shweta Agrawal,50123
+1510,Full time,SharePoint,Udeshna Boruah Kalita,50338
+1511,Full time,Node.js,Parmod Nehra,50479
+1512,part time,Java,Vishakha Tyagi,50011
+1513,Full time,Java,Vishakha Tyagi,50011
+1514,Full time,UX Design,Blessy Fernandes,50480
+1515,Full time,JavaScript,Raj Pandit,50145
+1516,part time,JavaScript,Raj Pandit,50145
+1517,Full time,JavaScript,Raj Pandit,50145
+1518,Full time,Python,Nisha Sharma,50187
+1519,Full time,Java,Deepika Kangokar,50098
+1520,part time,Java,Vishakha Tyagi,50011
+1521,Full time,Java,Madhavi Dixit,50093
+1522,Full time,Java,Madhavi Dixit,50093
+1523,Full time,Sales,Karthik Aj,50013
+1524,part time,JavaScript,Raj Pandit,50145
+1525,Full time,Python,Aarti Singh,50022
+1526,Full time,Cloud Security,Nikita Sah,50001
+1527,Full time,React Native,Ravindra Rathod,50397
+1528,part time,BigQuery,Tripesh Varshney,50483
+1529,Full time,Python,Agniv Debnath,50308
+1530,Full time,Java,Sarbanee Nayak,50477
+1531,Full time,Java,Asha L,50034
+1532,part time,Flutter,Pardeep Singh,50485
+1533,Full time,Java,Vishakha Tyagi,50011
+1534,Full time,Java,Navya C M,50006
+1535,Full time,SharePoint,Udeshna Boruah Kalita,50338
+1536,part time,JavaScript,Raj Pandit,50145
+1537,Full time,Java,Asha L,50034
+1538,Full time,Apex,Jiby Thomas,50393
+1539,Full time,Java,Akriti Dwivedi,50043
+1540,part time,Node.js,Roshan Muniraj,50489
+1541,Full time,Node.js,Gangadhara Reddy,50155
+1542,Full time,Node.js,Gangadhara Reddy,50155
+1543,Full time,React Native,Ravindra Rathod,50397
+1544,part time,Node.js,Silky Malik,50490
+1545,Full time,Manual Testing,Silky Malik,50491
+1546,Full time,Node.js,Roshan Muniraj,50489
+1547,Full time,Java,Navya C M,50006
+1548,part time,Java,Esha Jain,50266
+1549,Full time,Linux,Satyajit Kumar Mittra,50229
+1550,Full time,Golang,Nandini Pm,50494
+1551,Full time,Operations Management,Sachin K J,50495
+1552,part time,Brand Management,Hr Am,50496
+1553,Full time,Sales,Deepakshi Chaudhary,50497
+1554,Full time,Java,Madhavi Dixit,50498
+1555,Full time,Java,Madhavi Dixit,50498
+1556,part time,Java,Madhavi Dixit,50498
+1557,Full time,CSS,Shivam Dev,50499
+1558,Full time,Java,Savita Sarangi,50086
+1559,Full time,Linux,Satyajit Kumar Mittra,50229
+1560,part time,JavaScript,Mahak Kankane,50501
+1561,Full time,Java,Omkar Sonawane,50444
+1562,Full time,Automation Testing,Nithya B,50502
+1563,Full time,Redis,Joshna Adep,50503
+1564,part time,.NET,Satish Agrawal,50476
+1565,Full time,Distributed Systems,Ravi Dubey,50062
+1566,Full time,Content Marketing,Swati Kapur,50429
+1567,Full time,Linux,Vishal Chaudhary,50504
+1568,part time,Python,Aarti Singh,50022
+1569,Full time,Java,Omkar Sonawane,50069
+1570,Full time,Java,Manju Singh,50506
+1571,Full time,Corporate Sales,Sudhan K N R,50507
+1572,part time,Employee Benefits,Aditya Kumar,50508
+1573,Full time,Java,Ankit Sinha,50014
+1574,Full time,Java,Krishanu B,50457
+1575,Full time,jQuery,Simran,50510
+1576,part time,Python,Reshma Dsouza,50147
+1577,Full time,Java,Navya C M,50513
+1578,Full time,Corporate Sales,Swapnil Nautiyal,50220
+1579,Full time,Java,Omkar Sonawane,50069
+1580,part time,Java,Krishanu B,50457
+1581,Full time,Java,Omkar Sonawane,50514
+1582,Full time,Selenium,Kavya Shree,50515
+1583,Full time,Python,Usha Rani,50516
+1584,part time,C#,Sagarika Sharma,50517
+1585,Full time,Java,Raghu Tenneti,50101
+1586,Full time,Cloud Security,Nikita Sah,50001
+1587,Full time,Node.js,Gangadhara Reddy,50155
+1588,part time,Java,Vishakha Tyagi,50011
+1589,Full time,GraphQL,Naveen Kumar,50026
+1590,Full time,C#,Fatma,50133
+1591,Full time,JavaScript,Raj Pandit,50145
+1592,part time,CI - CD,Nikitaa P,50065
+1593,Full time,Cloud Security,Nikita Sah,50001
+1594,Full time,Node.js,Pradeep Shetty,50521
+1595,Full time,Java,Omkar Sonawane,50069
+1596,part time,2D Animation,Athira Rajkumar,50522
+1597,Full time,Java,Vishakha Tyagi,50011
+1598,Full time,Automation Testing,Nithya B,50502
+1599,Full time,PHP,Nikhil Gupta,50525
+1600,part time,Java,Omkar Sonawane,50069
+1601,Full time,Android,Suparna Das,50526
+1602,Full time,Direct Sales,Venkata Satya Deepya,50527
+1603,Full time,Java,Anandamoyee Nandiroy,50181
+1604,part time,Build Tools,Sriaravind T,50528
+1605,Full time,Build Tools,Sriaravind T,50528
+1606,Full time,Java,Jay Thanki Rth,50531
+1607,Full time,Python,Deepika Mukherjee,50532
+1608,part time,Kubernetes,Neha Dalvi,50533
+1609,Full time,Kubernetes,Neha Dalvi,50533
+1610,Full time,Data Warehousing,Omkar Sonawane,50311
+1611,Full time,C#,Sagarika Sharma,50517
+1612,part time,Power BI,Kirthika T,50218
+1613,Full time,Java,Vishakha Tyagi,50011
+1614,Full time,Java,Vishakha Tyagi,50011
+1615,Full time,Java,Aikya Chakraborty,50537
+1616,part time,Java,Savita Sarangi,50086
+1617,Full time,Data Analysis,Arjun Chakraborti,50538
+1618,Full time,Data Analysis,Arjun Chakraborti,50538
+1619,Full time,Direct Sales,Venkata Satya Deepya,50527
+1620,part time,Linux,Satyajit Kumar Mittra,50229
+1621,Full time,Java,Avinash Ks,50243
+1622,Full time,ServiceNow,Nouveau Labs,50544
+1623,Full time,Adobe Premiere Pro,Harshit Lokhande,50545
+1624,part time,Cloud Security,Nikita Sah,50001
+1625,Full time,Cloud Security,Nikita Sah,50001
+1626,Full time,Node.js,Pradeep Shetty,50521
+1627,Full time,Visual Design,Lakshmi Reddy,50286
+1628,part time,Golang,Shashwat Shukla,50136
+1629,Full time,Java,Navya C M,50006
+1630,Full time,Postman,Richa Upadhyay,50465
+1631,Full time,Python,Aarti Singh,50022
+1632,part time,Cloud Security,Nikita Sah,50001
+1633,Full time,Java,Omkar Sonawane,50069
+1634,Full time,Direct Sales,Monika Naruka,50553
+1635,Full time,Java,Asha L,50034
+1636,part time,Java,Asha L,50034
+1637,Full time,Build Tools,Mobeena Syed,50554
+1638,Full time,Build Tools,Mobeena Syed,50554
+1639,Full time,Linux,Vishal Chaudhary,50504
+1640,part time,Java,Omkar Sonawane,50069
+1641,Full time,JavaScript,Rashmi Agarwal,50555
+1642,Full time,Power BI,Navya C M,50032
+1643,Full time,Java,Krishanu B,50457
+1644,part time,Figma,Prathamlok,50558
+1645,Full time,Build Tools,Mobeena Syed,50554
+1646,Full time,Build Tools,Mobeena Syed,50554
+1647,Full time,Java,Akriti Singh,50405
+1648,part time,Java,Krishanu B,50457
+1649,Full time,Manual Testing,Sougat Das,50561
+1650,Full time,Java,Asha L,50034
+1651,Full time,Java,Asha L,50034
+1652,part time,Java,Asha L,50034
+1653,Full time,Java,Sunil Sethi,50081
+1654,Full time,Java,Akriti Singh,50405
+1655,Full time,Java,Madhavi Dixit,50498
+1656,part time,Java,Madhavi Dixit,50498
+1657,Full time,BigQuery,Tripesh Varshney,50483
+1658,Full time,MySQL,Shubham,50563
+1659,Full time,Java,Arun Lazar Jebamani Joseph,50035
+1660,part time,Java,Madhavi Dixit,50498
+1661,Full time,React.js,Gunjan Anand,50372
+1662,Full time,Insurance Operations,Monisha R Shetty,50568
+1663,Full time,CSS,Ashutosh Kinikar,50569
+1664,part time,Game Development,Karthick Loganathan,50493
+1665,Full time,Insurance Operations,Shrivathsa Rao,50572
+1666,Full time,Java,Priyanka A G,50075
+1667,Full time,Java,Sarbanee Nayak,50477
+1668,part time,Business Development,Akanksha Dwivedi,50573
+1669,Full time,JavaScript,Raj Pandit,50145
+1670,Full time,JavaScript,Raj Pandit,50145
+1671,Full time,Java,Omkar Sonawane,50069
+1672,part time,Java,Vishakha Tyagi,50011
+1673,Full time,Java,Bhanu Priya L,50575
+1674,Full time,Java,Prakhar Mehrotra,50467
+1675,Full time,Java,Prakhar Mehrotra,50467
+1676,part time,Java,Prakhar Mehrotra,50467
+1677,Full time,SQL,C J Rahul David,50576
+1678,Full time,Java,Vishakha Tyagi,50011
+1679,Full time,Java,Vishakha Tyagi,50011
+1680,part time,Java,Navya C M,50006
+1681,Full time,Java,Navya C M,50006
+1682,Full time,.NET,Venkatesh Palani,50579
+1683,Full time,ISO 27001,Shubham,50368
+1684,part time,Java,Muznabeen Fathima,50581
+1685,Full time,SAP HANA,Sadatafreen Hungund,50582
+1686,Full time,Java,Omkar Sonawane,50069
+1687,Full time,CSS,Vincent Vicario,50589
+1688,part time,CSS,Vincent Vicario,50589
+1689,Full time,Business Development,Chetana Alagundagi,50590
+1690,Full time,Java,Omkar Sonawane,50069
+1691,Full time,Java,Omkar Sonawane,50074
+1692,part time,Java,Omkar Sonawane,50074
+1693,Full time,Java,Omkar Sonawane,50074
+1694,Full time,Java,Omkar Sonawane,50074
+1695,Full time,Java,Kanchan Rajbhar,50556
+1696,part time,Java,Aditi Tyagi,50199
+1697,Full time,Java,Sunil Sethi,50081
+1698,Full time,CSS,Charul Sharma,50592
+1699,Full time,PHP,Subhashish S,50593
+1700,part time,Java,Meghashree Ramesh,50178
+1701,Full time,Python,Shweta Agrawal,50123
+1702,Full time,Python,Shweta Agrawal,50123
+1703,Full time,Java,Sunil Sethi,50081
+1704,part time,Corel Draw,Opportunity Rm,50595
+1705,Full time,Java,Omkar Sonawane,50514
+1706,Full time,Distributed Systems,Ravi Dubey,50062
+1707,Full time,Java,Anandamoyee Nandiroy,50181
+1708,part time,Oracle HCM,Leelavathi Lalammala,50596
+1709,Full time,Sales,Kusumba Sri Harsha Bharadwaj,50598
+1710,Full time,Java,Akriti Dwivedi,50043
+1711,Full time,JavaScript,Rovena Dsouza,50314
+1712,part time,Java,Sneha Halimani,50158
+1713,Full time,Oracle Database,Deepa Deshpande,50600
+1714,Full time,React.js,Kalpna Farswan,50087
+1715,Full time,JavaScript,Raj Pandit,50145
+1716,part time,Loans,Swapnil Nautiyal,50404
+1717,Full time,Java,Sneha Halimani,50158
+1718,Full time,Java,Omkar Sonawane,50069
+1719,Full time,JavaScript,Rashmi Agarwal,50555
+1720,part time,Node.js,Consult Bae,50606
+1721,Full time,Sales,Minal Darve,50607
+1722,Full time,PMP,Glany Lasrado,50608
+1723,Full time,Java,Shruti Talapatra,50609
+1724,part time,Java,Sunil Sethi,50081
+1725,Full time,Graphic Design,Pooja V Chalageri,50029
+1726,Full time,Graphic Design,Pooja V Chalageri,50029
+1727,Full time,Copy Writing,Seema Manglani,50610
+1728,part time,Java,Vishakha Tyagi,50011
+1729,Full time,Build Tools,Bhavya Shah,50408
+1730,Full time,Business Development,Bhoomi M,50612
+1731,Full time,Python,Muskan Grover,50270
+1732,part time,Copy Writing,Seema Manglani,50610
+1733,Full time,Data Warehousing,Omkar Sonawane,50311
+1734,Full time,Distributed Systems,Ravi Dubey,50062
+1735,Full time,Java,Asha L,50034
+1736,part time,Product Management,Suchi Jayaprabhu,50615
+1737,Full time,Java,Prathamlok,50004
+1738,Full time,Automation Testing,Amrita Patwal,50616
+1739,Full time,Java,Sneha Halimani,50158
+1740,part time,Product Management,Rinsy Backer,50618
+1741,Full time,Java,Sunil Sethi,50081
+1742,Full time,Node.js,Roshan Muniraj,50489
+1743,Full time,Hadoop,Sougat Das,50619
+1744,part time,Java,Arun Lazar Jebamani Joseph,50035
+1745,Full time,JavaScript,Himanshu G,50624
+1746,Full time,Digital Marketing,Garima Bhardwaj,50625
+1747,Full time,Android,Anjana Madkatte,50626
+1748,part time,Android,Anjana Madkatte,50626
+1749,Full time,Android,Anjana Madkatte,50626
+1750,Full time,Java,Omkar Sonawane,50514
+1751,Full time,Distributed Systems,Ravi Dubey,50062
+1752,part time,.NET,Kratika Sharma,50628
+1753,Full time,Java,Divya Chhabra,50173
+1754,Full time,Java,Omkar Sonawane,50069
+1755,Full time,Java,Sneha Halimani,50158
+1756,part time,Java,Swantana Sahoo,50630
+1757,Full time,Java,Navya C M,50006
+1758,Full time,Cloud Security,Nikita Sah,50001
+1759,Full time,Python,Mohamed Aslam,50613
+1760,part time,FPGAs,Sukhila Umarji Hodlur,50633
+1761,Full time,iOS,Sukhila Umarji Hodlur,50636
+1762,Full time,Microfocus,Amrutha Vibha,50637
+1763,Full time,Power BI,Kirthika T,50218
+1764,part time,Java,Krishanu B,50457
+1765,Full time,Java,Vishakha Tyagi,50011
+1766,Full time,Android,Khushi Dubey,50350
+1767,Full time,Distributed Systems,Ravi Dubey,50053
+1768,part time,Distributed Systems,Ravi Dubey,50062
+1769,Full time,Distributed Systems,Ravi Dubey,50062
+1770,Full time,Customer Interaction,Mugdha,50639
+1771,Full time,Sales,Deepshikha Dubey,50349
+1772,part time,Java,Swantana Sahoo,50630
+1773,Full time,Java,Navdeep Kaur,50186
+1774,Full time,Java,Asha L,50034
+1775,Full time,Postman,Richa Upadhyay,50465
+1776,part time,Learning and Development,Nitheesh Das,50641
+1777,Full time,Power BI,Dilip Kumar,50642
+1778,Full time,Agile,Lovedeep Singh,50645
+1779,Full time,Agile,Lovedeep Singh,50645
+1780,part time,Compensation Management,Hire Cloudesign,50646
+1781,Full time,Customer Interaction,Mugdha,50639
+1782,Full time,Java,Omkar Sonawane,50514
+1783,Full time,Data Warehousing,Omkar Sonawane,50311
+1784,part time,Java,Sithara Bn,50647
+1785,Full time,Cloud Security,Nikita Sah,50001
+1786,Full time,SAP FICO,Venkatesh Palani,50192
+1787,Full time,JavaScript,Priyanka K,50648
+1788,part time,Java,Savita Sarangi,50086
+1789,Full time,Computer Vision,Nishanth Bs,50652
+1790,Full time,Product Management,Radhika Agrawal,50653
+1791,Full time,Java,Avinash Ks,50243
+1792,part time,SAP BO,Neha Soni,50655
+1793,Full time,Node.js,Parmod Nehra,50479
+1794,Full time,Java,Bhanu Priya L,50575
+1795,Full time,Product Management,Sindhuja,50315
+1796,part time,Product Management,Sindhuja,50315
+1797,Full time,ISO 27001,Shubham,50368
+1798,Full time,React.js,Kalpna Farswan,50087
+1799,Full time,SharePoint,Udeshna Boruah Kalita,50338
+1800,part time,Java,Prathamlok,50004
+1801,Full time,Photoshop,Paankhuri Aggarwal,50660
+1802,Full time,Java,Bhanu Priya L,50575
+1803,Full time,DICOM,Harshitha S,50134
+1804,part time,SQL,Neha Dalvi,50662
+1805,Full time,Automation Testing,Shubham,50663
+1806,Full time,Automation Testing,Swati Singh,50664
+1807,Full time,Operations Management,Sheetal Surana,50665
+1808,part time,Java,Vishakha Tyagi,50011
+1809,Full time,Business Development,Srinivasa Govindraju,50666
+1810,Full time,Java,Vishakha Tyagi,50011
+1811,Full time,Python,Agniv Debnath,50308
+1812,part time,Java,Omkar Sonawane,50074
+1813,Full time,Distributed Systems,Ravi Dubey,50062
+1814,Full time,C#,Fatma,50133
+1815,Full time,Oracle Applications,Shruti Sharma,50671
+1816,part time,Java,Priyanka A G,50075
+1817,Full time,Data Warehousing,Omkar Sonawane,50311
+1818,Full time,Distributed Systems,Ravi Dubey,50062
+1819,Full time,Data Modelling,Arun Sreenivasan,50673
+1820,part time,JavaScript,Raj Pandit,50145
+1821,Full time,Power BI,Kirthika T,50218
+1822,Full time,Java,Omkar Sonawane,50074
+1823,Full time,Flutter,Anjali Nair,50675
+1824,part time,Java,Asha L,50034
+1825,Full time,Python,Pramita Kumari Sahu,50224
+1826,Full time,DevOps,Rekha B,50676
+1827,Full time,Java,Navya C M,50006
+1828,part time,C#,Fatma,50133
+1829,Full time,JavaScript,Raj Pandit,50145
+1830,Full time,JavaScript,Raj Pandit,50145
+1831,Full time,PHP,Selvakumar S,50260
+1832,part time,PHP,Selvakumar S,50260
+1833,Full time,Procurement,Mahesh Kumar,50677
+1834,Full time,Node.js,Gangadhara Reddy,50155
+1835,Full time,C,Smrudhi Gauns,50273
+1836,part time,JavaScript,Archana S Menon,50052
+1837,Full time,Java,Priyanka Gaur,50680
+1838,Full time,Java,Anandamoyee Nandiroy,50181
+1839,Full time,Automation Testing,Swati Singh,50664
+1840,part time,Graphic Design,Pooja V Chalageri,50029
+1841,Full time,Playwright,Aarti Singh,50203
+1842,Full time,Hadoop,Vamika Malhotra,50415
+1843,Full time,React Native,Ravindra Rathod,50397
+1844,part time,SQL,Team Goalkeep,50682
+1845,Full time,Java,Priyanka Gaur,50680
+1846,Full time,Product Management,Sirin Riaz,50234
+1847,Full time,Python,Deepika Mukherjee,50532
+1848,part time,Brand Management,Khushi Dubey,50623
+1849,Full time,Data Analysis,Arjun Chakraborti,50538
+1850,Full time,Java,Ilakkiya R,50691
+1851,Full time,Java,Likhitha B N,50172
+1852,part time,C++,Khalid,50140
+1853,Full time,Public Relations,Pinnacle Consultz,50692
+1854,Full time,ASP.NET,Suchismita De,50694
+1855,Full time,Data Streaming,Pratikshya Pusty,50695
+1856,part time,Business Development,Diksha Jhingran,50002
+1857,Full time,Business Development,Diksha Jhingran,50002
+1858,Full time,Java,Sithara Bn,50647
+1859,Full time,Business Development,Diksha Jhingran,50002
+1860,part time,Java,Tanvi Sinha,50231
+1861,Full time,Java,Sithara Bn,50647
+1862,Full time,Java,Sithara Bn,50647
+1863,Full time,JavaScript,Nandha Kumar,50700
+1864,part time,JavaScript,Muskan Jaiswal,50702
+1865,Full time,C++,Khalid,50140
+1866,Full time,Java,Vishakha Tyagi,50011
+1867,Full time,Business Development,Monika Bhandari,50709
+1868,part time,CSS,Tripti Saxena,50711
+1869,Full time,PHP,Nikhil Gupta,50525
+1870,Full time,Java,Archana Tr,50120
+1871,Full time,Java,Likhitha B N,50172
+1872,part time,Java,Meghashree Ramesh,50178
+1873,Full time,Java,Krishna Chaitanya Reddy Katta KC,50112
+1874,Full time,Java,Arun Kumar,50245
+1875,Full time,Content Marketing,Chandra Kiran B,50714
+1876,part time,Java,Sunil Sethi,50081
+1877,Full time,Manual Testing,Akshaja Manoharan,50413
+1878,Full time,Node.js,Qikrecruit,50464
+1879,Full time,Python,Praison Xavier,50716
+1880,part time,Business Development,Marsina Waffa,50095
+1881,Full time,Product Management,Radhika Agrawal,50653
+1882,Full time,Java,Navdeep Kaur,50186
+1883,Full time,Java,Archana Tr,50120
+1884,part time,Java,Prajna A,50718
+1885,Full time,Java,Sowrabh Rajesh,50445
+1886,Full time,Java,Aikya Chakraborty,50537
+1887,Full time,DevOps,Anjali Mahiwal,50722
+1888,part time,Java,Omkar Sonawane,50069
+1889,Full time,JavaScript,Akshatha Ks,50044
+1890,Full time,JavaScript,Akshatha Ks,50044
+1891,Full time,Java,Talent Acquisition Team,50724
+1892,part time,Distributed Systems,Ravi Dubey,50053
+1893,Full time,GraphQL,Naveen Kumar,50026
+1894,Full time,Java,Vishakha Tyagi,50011
+1895,Full time,.NET,Rituparna Borah,50374
+1896,part time,Java,Talent Acquisition Team,50724
+1897,Full time,Java,Raghu Tenneti,50101
+1898,Full time,Apex,Jiby Thomas,50393
+1899,Full time,Java,Akriti Singh,50405
+1900,part time,Java,Anandamoyee Nandiroy,50181
+1901,Full time,Java,Arun Lazar Jebamani Joseph,50035
+1902,Full time,Java,Omkar Sonawane,50069
+1903,Full time,PHP,Subhashish S,50593
+1904,part time,Python,Seemi Ejaz,50233
+1905,Full time,SharePoint,Udeshna Boruah Kalita,50338
+1906,Full time,Java,Raghu Tenneti,50101
+1907,Full time,Java,Asha L,50034
+1908,part time,Angular,Benjamin S,50550
+1909,Full time,Java,Rohit Gajjala,50730
+1910,Full time,Java,Rohit Gajjala,50730
+1911,Full time,SharePoint,Udeshna Boruah Kalita,50338
+1912,part time,Java,Angelina Tiwari,50109
+1913,Full time,Node.js,Gangadhara Reddy,50155
+1914,Full time,Python,Deepika Mukherjee,50532
+1915,Full time,Python,Deepika Mukherjee,50532
+1916,part time,Python,Deepika Mukherjee,50532
+1917,Full time,Distributed Systems,Ravi Dubey,50062
+1918,Full time,Java,Rohit Gajjala,50730
+1919,Full time,Java,Raghu Tenneti,50101
+1920,part time,Sales,Jai Nayak,50733
+1921,Full time,Python,Deepika Mukherjee,50532
+1922,Full time,Python,Deepika Mukherjee,50532
+1923,Full time,C#,Kalpna Farswan,50734
+1924,part time,Java,Vishakha Tyagi,50011
+1925,Full time,Java,Apurva Shetty,50738
+1926,Full time,Java,Rajath Gv,50740
+1927,Full time,Java,Riya Prasad,50200
+1928,part time,C#,Kalpna Farswan,50734
+1929,Full time,Python,Talent Acquisition Line,50185
+1930,Full time,Java,Madhusmita M,50118
+1931,Full time,.NET,Janani Sri,50743
+1932,part time,Computer Vision,Tulika Shome,50744
+1933,Full time,Power BI,Dilip Kumar,50642
+1934,Full time,CSS,Ekta Singh,50745
+1935,Full time,Agile,Lovedeep Singh,50645
+1936,part time,Build Tools,Bhavya Shah,50408
+1937,Full time,Java,Pallavi Chauhan,50339
+1938,Full time,Java,Navdeep Kaur,50186
+1939,Full time,.NET,Kalpna Farswan,50070
+1940,part time,Risk Management,Meenu,50448
+1941,Full time,Java,Archana Tr,50120
+1942,Full time,Java,Archana Tr,50120
+1943,Full time,Java,Archana Tr,50120
+1944,part time,.NET,Rituparna Borah,50374
+1945,Full time,Java,Navdeep Kaur,50186
+1946,Full time,Java,Navdeep Kaur,50186
+1947,Full time,Java,Navdeep Kaur,50186
+1948,part time,Java,Likhitha B N,50172
+1949,Full time,Agile,Ravi Sivaraman,50752
+1950,Full time,Java,Lithin Raj,50144
+1951,Full time,GraphQL,Naveen Kumar,50026
+1952,part time,Java,Anandamoyee Nandiroy,50181
+1953,Full time,Java,Anandamoyee Nandiroy,50181
+1954,Full time,Data Analysis,Arjun Chakraborti,50538
+1955,Full time,Java,Reno Mathew,50375
+1956,part time,Java,Priyanka Gaur,50680
+1957,Full time,Java,Sithara Bn,50647
+1958,Full time,Managed Services,Beatrice Wesley,50762
+1959,Full time,Java,Anandamoyee Nandiroy,50181
+1960,part time,C#,Ankit Sinha,50008
+1961,Full time,React.js,Neha Dalvi,50764
+1962,Full time,Java,Vishakha Tyagi,50011
+1963,Full time,Java,Priyanka Paul,50227
+1964,part time,Java,Raghu Tenneti,50101
+1965,Full time,Android,Tavva Suvarna,50767
+1966,Full time,JavaScript,Raj Pandit,50145
+1967,Full time,JavaScript,Raj Pandit,50145
+1968,part time,Java,Raghu Tenneti,50101
+1969,Full time,Java,Archana Tr,50120
+1970,Full time,Simulation,A Prerana Tirkey,50292
+1971,Full time,Google Ads,Aswini Kk,50770
+1972,part time,Java,Omkar Sonawane,50069
+1973,Full time,Business Development,Heenal Thakrar,50519
+1974,Full time,Lead Generation,Shubha Naik,50772
+1975,Full time,JavaScript,Raj Pandit,50145
+1976,part time,jQuery,Simran,50510
+1977,Full time,Product Management,Swatee Paithankar,50776
+1978,Full time,Python,Meenal Sharma,50114
+1979,Full time,Video Editing,Sibi K,50777
+1980,part time,JavaScript,Manasranjan Giri,50778
+1981,Full time,MySQL,Rajni Thakur,50406
+1982,Full time,Java,Lithin Raj,50144
+1983,Full time,Java,Lithin Raj,50144
+1984,part time,Business Development,Ajay Kumar,50782
+1985,Full time,Cucumber,Nithya Venkat,50784
+1986,Full time,Java,Akriti Singh,50405
+1987,Full time,Brand Management,Bhanu Prasad,50785
+1988,part time,GraphQL,Naveen Kumar,50026
+1989,Full time,Social Media Marketing,Misha Yadav,50788
+1990,Full time,Corporate Sales,Swapnil Nautiyal,50220
+1991,Full time,Google Ads,Kumar K,50385
+1992,part time,Google Ads,Kumar K,50385
+1993,Full time,Google Ads,Kumar K,50385
+1994,Full time,Java,Sarbanee Nayak,50477
+1995,Full time,Java,Rohit Gajjala,50730
+1996,part time,MySQL,Meenal Sharma,50529
+1997,Full time,Java,Riya Prasad,50200
+1998,Full time,Python,Mohamed Aslam,50613
+1999,Full time,Agile,Supriya Vijay,50325
+2000,part time,Java,Savita Sarangi,50086
+2001,Full time,International Sales,Hema Negi,50793
+2002,Full time,Java,Saranya R,50252
+2003,Full time,Java,Avinash Ks,50243
+2004,part time,Business Development,Supriya Kourav,50796
+2005,Full time,C#,Aishwarya R,50801
+2006,Full time,React Native,Ravindra Rathod,50397
+2007,Full time,Ad Operations,Swapnil Nautiyal,50802
+2008,part time,CI - CD,Nikitaa P,50065
+2009,Full time,Java,Priyanka Gaur,50680
+2010,Full time,JavaScript,Saine Ghosal,50805
+2011,Full time,DevOps,Qikrecruit,50806
+2012,part time,DevOps,Qikrecruit,50806
+2013,Full time,Cloud Computing,Ashna Thakur,50808
+2014,Full time,Linux,Anjali Purohit,50809
+2015,Full time,Shopify,Siddharth Jaiswal,50813
+2016,part time,Java,Arun Lazar Jebamani Joseph,50035
+2017,Full time,Data Mining,Mandeep Chauhan,50817
+2018,Full time,Java,Sarbanee Nayak,50477
+2019,Full time,Sales,Karthik Aj,50013
+2020,part time,Java,Arun Lazar Jebamani Joseph,50035
+2021,Full time,CSS,Smaran Rao,50820
+2022,Full time,CSS,Smaran Rao,50820
+2023,Full time,MongoDB,Shivani Singh,50821
+2024,part time,Visual Design,Lakshmi Reddy,50286
+2025,Full time,Business Development,Heenal Thakrar,50519
+2026,Full time,Java,Priyanka A G,50075
+2027,Full time,Java,Archana Tr,50120
+2028,part time,Corporate Sales,Swapnil Nautiyal,50220
+2029,Full time,Business Development,Bhagya Parameswaran,50825
+2030,Full time,Sales,Karthik Aj,50013
+2031,Full time,JavaScript,Vibha Premkumar,50826
+2032,part time,Java,Raghu Tenneti,50101
+2033,Full time,Java,Omkar Sonawane,50069
+2034,Full time,.NET,Rituparna Borah,50374
+2035,Full time,Python,Talent Acquisition Line,50185
+2036,part time,Palo Alto,Talent Acquisition Team,50828
+2037,Full time,JavaScript,Raj Pandit,50145
+2038,Full time,Java,Talent Acquisition Team,50724
+2039,Full time,Java,Archana Tr,50120
+2040,part time,Android,Sreya Mazumdar,50418
+2041,Full time,Java,Arun Lazar Jebamani Joseph,50035
+2042,Full time,Angular,Benjamin S,50550
+2043,Full time,Java,Talent Acquisition Team,50724
+2044,part time,Java,Talent Acquisition Team,50724
+2045,Full time,Java,Narkish M,50831
+2046,Full time,Power BI,Kirthika T,50218
+2047,Full time,Agile,Supriya Vijay,50325
+2048,part time,Java,Prakhar Mehrotra,50467
+2049,Full time,Python,Prakhar Mehrotra,50182
+2050,Full time,Python,Meenal Sharma,50114
+2051,Full time,Java,Asha L,50034
+2052,part time,.NET,Rituparna Borah,50374
+2053,Full time,Sales,Karthik Aj,50013
+2054,Full time,Palo Alto,Talent Acquisition Team,50828
+2055,Full time,Java,Chetan C,50836
+2056,part time,Java,Arun Lazar Jebamani Joseph,50035
+2057,Full time,Java,Arun Lazar Jebamani Joseph,50035
+2058,Full time,Java,Arun Lazar Jebamani Joseph,50035
+2059,Full time,CSS,Florence Teresa Dcruz,50837
+2060,part time,Android,Adarsh Sikarwar,50838
+2061,Full time,Java,Vishakha Tyagi,50011
+2062,Full time,.NET,Rituparna Borah,50374
+2063,Full time,Java,Lithin Raj,50144
+2064,part time,Java,Archana Tr,50120
+2065,Full time,Compensation Management,Careers Aubree,50840
+2066,Full time,Java,Bhanu Priya L,50575
+2067,Full time,Java,Lithin Raj,50144
+2068,part time,Java,Archana Tr,50120
+2069,Full time,Java,Archana Tr,50120
+2070,Full time,Golang,Mahima,50183
+2071,Full time,Java,Hem Chandra Kar,50017
+2072,part time,Java,Hem Chandra Kar,50017
+2073,Full time,ETL,Aparna Rajkhowa,50843
+2074,Full time,Java,Madhavi Dixit,50093
+2075,Full time,Java,Madhavi Dixit,50093
+2076,part time,DevOps,Soham Bhattacharjee,50386
+2077,Full time,DevOps,Soham Bhattacharjee,50386
+2078,Full time,JavaScript,Raj Pandit,50145
+2079,Full time,JavaScript,Raj Pandit,50145
+2080,part time,JavaScript,Raj Pandit,50145
+2081,Full time,Java,Shelly Biswas,50371
+2082,Full time,Content Marketing,Chandra Kiran B,50714
+2083,Full time,JavaScript,Vibha Premkumar,50826
+2084,part time,React.js,Garima Maheshwari,50848
+2085,Full time,Java,Priyanka Kaushal,50340
+2086,Full time,Java,Bidyut Ganguly,50849
+2087,Full time,Java,Bidyut Ganguly,50849
+2088,part time,Flutter,Soham Bhattacharjee,50850
+2089,Full time,Java,Arun Lazar Jebamani Joseph,50035
+2090,Full time,Python,Aarti Singh,50022
+2091,Full time,JavaScript,Ankita Sharma,50732
+2092,part time,Java,Sudhindra MG Rao Sudhi,50096
+2093,Full time,Java,Sudhindra MG Rao Sudhi,50096
+2094,Full time,Java,Esha Jain,50266
+2095,Full time,JavaScript,Ankita Sharma,50732
+2096,part time,Business Development,Suranjan Barman,50855
+2097,Full time,React Native,Ravindra Rathod,50397
+2098,Full time,Business Development,Bhagya Parameswaran,50825
+2099,Full time,Python,Nikhil Kumar,50860
+2100,part time,Java,Twinkle Bhatnagar,50864
+2101,Full time,Java,Esha Jain,50266
+2102,Full time,Python,Shweta Kumari,50865
+2103,Full time,Java,Reno Mathew,50375
+2104,part time,Automation Testing,Adarsh Pk,50874
+2105,Full time,Java,Keerthana Ramaswamy,50040
+2106,Full time,Node.js,Ramya Shetty,50235
+2107,Full time,Java,Mayur M L,50511
+2108,part time,CSS,Soumya Kerkar,50875
+2109,Full time,Python,Sweta Barman,50316
+2110,Full time,Inventory Management,Bettina George,50878
+2111,Full time,Game Development,Bhavya M,50879
+2112,part time,Content Marketing,Reetu Garg Shrmscp,50880
+2113,Full time,React Native,Ravindra Rathod,50397
+2114,Full time,SQL,Blessy Fernandes,50883
+2115,Full time,Java,Nisha Sharma,50886
+2116,part time,CI - CD,Nikitaa P,50065
+2117,Full time,Java,Omkar Sonawane,50317
+2118,Full time,Java,Bidyut Ganguly,50849
+2119,Full time,Game Development,Bhavya M,50879
+2120,part time,Node.js,Krishnam Raju Kadari,50887
+2121,Full time,Node.js,Krishnam Raju Kadari,50887
+2122,Full time,Java,Raghu Tenneti,50101
+2123,Full time,Java,Raghu Tenneti,50101
+2124,part time,Java,Bidyut Ganguly,50849
+2125,Full time,Java,Aneesh Vikram,50275
+2126,Full time,Sales,Shubham,50889
+2127,Full time,Java,Anandamoyee Nandiroy,50181
+2128,part time,Java,Archana Tr,50120
+2129,Full time,Supply Chain Management,Swapnil Nautiyal,50890
+2130,Full time,Java,Rukmi Dhar,50894
+2131,Full time,Java,Arun Lazar Jebamani Joseph,50035
+2132,part time,Quality Assurance,Surabhi Deo,50895
+2133,Full time,Java,Sushant Arya,50896
+2134,Full time,Java,Venkat Raman,50771
+2135,Full time,Java,Venkat Raman,50771
+2136,part time,Content Marketing,Swati Kapur,50429
+2137,Full time,Java,Venkat Raman,50771
+2138,Full time,CSS,Sinthia Dass,50899
+2139,Full time,Spring Boot,Sharmila M,50903
+2140,part time,React Native,Bhini Tenani,50712
+2141,Full time,Node.js,Qikrecruit,50464
+2142,Full time,iOS,Namrata Maidur,50905
+2143,Full time,Node.js,Ramya Shetty,50235
+2144,part time,Bash,Shubham,50908
+2145,Full time,ASP.NET,Suchismita De,50694
+2146,Full time,Business Development,Sakshi Anand,50910
+2147,Full time,Java,Omkar Sonawane,50069
+2148,part time,Java,Venkat Raman,50771
+2149,Full time,Java,Venkat Raman,50771
+2150,Full time,Figma,Manish Nirwal,50911
+2151,Full time,Business Development,Kamlesh Tiwari,50915
+2152,part time,Java,Venkat Raman,50771
+2153,Full time,Java,Venkat Raman,50771
+2154,Full time,Java,Venkat Raman,50771
+2155,Full time,Big Data,Dharya Aggarwal,50466
+2156,part time,React.js,Kalpna Farswan,50087
+2157,Full time,JavaScript,Raj Pandit,50145
+2158,Full time,Java,Asha L,50034
+2159,Full time,Golang,Vaibhav Gupta,50916
+2160,part time,Machine Learning,Shilpa V,50919
+2161,Full time,Java,Omkar Sonawane,50069
+2162,Full time,Node.js,Sukant Kumar,50921
+2163,Full time,Sales,Deepshikha Dubey,50349
+2164,part time,React.js,Udeshna Boruah Kalita,50923
+2165,Full time,Java,Prakhar Mehrotra,50467
+2166,Full time,React.js,Kalpna Farswan,50087
+2167,Full time,Java,Chetan C,50836
+2168,part time,Python,Seemi Ejaz,50233
+2169,Full time,Java,Rahul Prakash,50263
+2170,Full time,React.js,Kalpna Farswan,50087
+2171,Full time,React.js,Kalpna Farswan,50087
+2172,part time,React.js,Ayushi Jain,50925
+2173,Full time,Java,Priyanka Paul,50227
+2174,Full time,Data Analysis,Arjun Chakraborti,50538
+2175,Full time,Java,Pallavi Chauhan,50339
+2176,part time,React.js,Ayushi Jain,50925
+2177,Full time,Business Development,Heenal Thakrar,50519
+2178,Full time,React Native,C Anjana Nagesh,50929
+2179,Full time,Brand Management,Karuna Mr,50930
+2180,part time,JavaScript,Sougat Das,50931
+2181,Full time,AC Motors,Bettegowda Pr,50933
+2182,Full time,AC Motors,Bettegowda Pr,50933
+2183,Full time,AC Motors,Bettegowda Pr,50933
+2184,part time,JavaScript,Akshatha Ks,50044
+2185,Full time,Java,Arun Lazar Jebamani Joseph,50035
+2186,Full time,Java,Arun Lazar Jebamani Joseph,50035
+2187,Full time,Android,Alfin Babu,50935
+2188,part time,Android,Alfin Babu,50935
+2189,Full time,JMeter,Ankit Dhiman,50416
+2190,Full time,Business Development,Pavithra M Nair,50937
+2191,Full time,Java,Shelly Biswas,50371
+2192,part time,Python,Mahesh Jaladi,50942
+2193,Full time,Java,Shelly Biswas,50371
+2194,Full time,Java,Rahul Prakash,50263
+2195,Full time,Angular,Shubham,50943
+2196,part time,React.js,Garima Maheshwari,50848
+2197,Full time,BFSI,Jayasuma M,50373
+2198,Full time,.NET,Anjali Nair,50944
+2199,Full time,.NET,Anjali Nair,50944
+2200,part time,Data Mining,Anita Mariam Jacob,50105
+2201,Full time,Java,Priyanka Paul,50227
+2202,Full time,Java,Priyanka Paul,50227
+2203,Full time,Product Management,Anjali Nair,50947
+2204,part time,Python,Sravani Krishna,50798
+2205,Full time,Java,Raghu Tenneti,50101
+2206,Full time,Java,Angelina Tiwari,50109
+2207,Full time,Java,Bidyut Ganguly,50849
+2208,part time,WPF,Kartik M,50355
+2209,Full time,Direct Sales,Venkata Satya Deepya,50527
+2210,Full time,Content Marketing,Murthy Ravi,50952
+2211,Full time,.NET,Asmita Chatterjee,50953
+2212,part time,Google Ads,Blessy Fernandes,50954
+2213,Full time,WPF,Kartik M,50355
+2214,Full time,WPF,Kartik M,50355
+2215,Full time,Angular,Madhavi Vojhala,50956
+2216,part time,Java,Angelina Tiwari,50109
+2217,Full time,Java,Shruti Talapatra,50609
+2218,Full time,Corporate Sales,Sudhan K N R,50507
+2219,Full time,Python,Debadrita Das,50960
+2220,part time,React.js,Vaishali Kumari,50962
+2221,Full time,Java,Anandamoyee Nandiroy,50181
+2222,Full time,Java,Omkar Sonawane,50317
+2223,Full time,Financial Analysis,Karthik T,50242
+2224,part time,Business Development,Chetana Alagundagi,50590
+2225,Full time,Graphic Design,Sidharth Patra,50963
+2226,Full time,Java,Saranya R,50252
+2227,Full time,Java,Akriti Dwivedi,50043
+2228,part time,Business Development,Srinivasa Govindraju,50666
+2229,Full time,Java,Esha Jain,50266
+2230,Full time,Python,Alok Madhav,50964
+2231,Full time,Java,Reno Mathew,50375
+2232,part time,Java,Reno Mathew,50375
+2233,Full time,Java,Asha L,50810
+2234,Full time,React Native,Shweta Srivastava,50965
+2235,Full time,Telecalling,Boyapati Bhargava,50972
+2236,part time,Procurement,Mahesh Kumar,50677
+2237,Full time,Java,Arun Lazar Jebamani Joseph,50035
+2238,Full time,Python,Mohamed Aslam,50613
+2239,Full time,JavaScript,Dipika Mondal,50974
+2240,part time,Java,Madhavi Dixit,50093
+2241,Full time,Sales,Karthik Aj,50013
+2242,Full time,Java,Angelina Tiwari,50109
+2243,Full time,Java,Angelina Tiwari,50109
+2244,part time,Java,Angelina Tiwari,50109
+2245,Full time,Java,Asha L,50810
+2246,Full time,JavaScript,Dipika Mondal,50974
+2247,Full time,Java,Shivani Garg,50167
+2248,part time,Automation Testing,Noel David,50976
+2249,Full time,.NET,Kratika Sharma,50628
+2250,Full time,Ad Trafficking,Sakthi Sundaresan,50977
+2251,Full time,Android,Suparna Das,50526
+2252,part time,Java,Keerthana Ramaswamy,50040
+2253,Full time,Java,Vishakha Tyagi,50011
+2254,Full time,Customer Service,Yash Singh,50978
+2255,Full time,Big Data,Aishwarya Rajvedi,50981
+2256,part time,Python,Nivedita Semwal,50982
+2257,Full time,Node.js,Parmod Nehra,50479
+2258,Full time,Java,Vishakha Tyagi,50011
+2259,Full time,Finance,Guntaas Lotay,50983
+2260,part time,Java,Ramya Tanya,50188
+2261,Full time,NetSuite,Thilak Nanaiah,50987
+2262,Full time,NetSuite,Thilak Nanaiah,50987
+2263,Full time,MySQL,Meenal Sharma,50529
+2264,part time,React.js,Sharmila M,50832
+2265,Full time,Python,Rohit Joshi,50988
+2266,Full time,Java,Deepika Kangokar,50098
+2267,Full time,BigQuery,Tripesh Varshney,50483
+2268,part time,BigQuery,Tripesh Varshney,50483
+2269,Full time,C#,Fatma,50133
+2270,Full time,JavaScript,Raj Pandit,50145
+2271,Full time,Cloud Security,Rituparna Borah,50991
+2272,part time,Java,Omkar Sonawane,50069
+2273,Full time,Java,Deepika Kangokar,50098
+2274,Full time,Python,Sweta Barman,50993
+2275,Full time,Java,Priyanka Paul,50227
+2276,part time,Insurance Operations,Monisha R Shetty,50568
+2277,Full time,Java,Raghu Tenneti,50101
+2278,Full time,Java,Vishakha Tyagi,50011
+2279,Full time,BigQuery,Tripesh Varshney,50483
+2280,part time,Java,Anandamoyee Nandiroy,50181
+2281,Full time,Java,Arun Kumar,50245
+2282,Full time,SharePoint,Udeshna Boruah Kalita,50338
+2283,Full time,Java,Rahul Prakash,50263
+2284,part time,Java,Rahul Prakash,50263
+2285,Full time,Java,Rahul Prakash,50263
+2286,Full time,Java,Selvi U,50129
+2287,Full time,Node.js,Gangadhara Reddy,50155
+2288,part time,Java,Omkar Sonawane,50444
+2289,Full time,Build Tools,Mobeena Syed,50554
+2290,Full time,Product Management,Rinsy Backer,51002
+2291,Full time,Android,Adarsh Sikarwar,50838
+2292,part time,C#,Fatma,50133
+2293,Full time,Java,Anandamoyee Nandiroy,50181
+2294,Full time,Node.js,Ankit Dhiman,50369
+2295,Full time,Java,Divya Chhabra,50173
+2296,part time,Python,Reshma Dsouza,50147
+2297,Full time,Java,Ramya Tanya,50188
+2298,Full time,Java,Rohit Ghadge,51004
+2299,Full time,Java,Omkar Sonawane,50069
+2300,part time,Visual Design,Lakshmi Reddy,50286
+2301,Full time,Visual Design,Lakshmi Reddy,50286
+2302,Full time,UX Design,Atul Kumar,51010
+2303,Full time,Manual Testing,Manish Nirwal,50099
+2304,part time,React.js,Ayushi Jain,50925
+2305,Full time,JavaScript,Rovena Dsouza,50314
+2306,Full time,DevOps,Rekha B,50676
+2307,Full time,Data Warehousing,Omkar Sonawane,50311
+2308,part time,Blockchain,Fathima Zoya,51016
+2309,Full time,Procurement,Mahesh Kumar,50677
+2310,Full time,Python,Debadrita Das,50960
+2311,Full time,Cloud Security,Nikita Sah,50001
+2312,part time,Cloud Security,Nikita Sah,50001
+2313,Full time,Social Media Marketing,Rahul Narula,51022
+2314,Full time,Content Marketing,Shefali Chaurasia,51023
+2315,Full time,Product Management,Ashmita Kumari,50198
+2316,part time,JavaScript,Raj Pandit,50145
+2317,Full time,Java,Shruti Talapatra,50609
+2318,Full time,Java,Namrata Sharma,51025
+2319,Full time,Product Management,Radhika Agrawal,50653
+2320,part time,Java,Sam Abhilash,50800
+2321,Full time,Content Marketing,Shefali Chaurasia,51023
+2322,Full time,jQuery,Simran,50510
+2323,Full time,.NET,Kalpna Farswan,50070
+2324,part time,Java,Angelina Tiwari,50109
+2325,Full time,Java,Namrata Sharma,51025
+2326,Full time,Financial Analysis,Karthik T,50242
+2327,Full time,JavaScript,Archana S Menon,50052
+2328,part time,Java,Esha Jain,50266
+2329,Full time,Java,Raghu Tenneti,50101
+2330,Full time,ATL,Anurag Singh,50020
+2331,Full time,Golang,Sandhya Suresh,50023
+2332,part time,Machine Learning,Ankit Chauhan,50031
+2333,Full time,Machine Learning,Ankit Chauhan,50031
+2334,Full time,Golang,Viswanatha Syam Devarakonda,50048
+2335,Full time,Java,Dixita Sharma,50088
+2336,part time,Java,Angelina Tiwari,50109
+2337,Full time,React.js,Omkar Sonawane,50124
+2338,Full time,Java,Abhilash Darshi,50127
+2339,Full time,Java,Selvi U,50129
+2340,part time,DICOM,Harshitha S,50134
+2341,Full time,Python,Sridevi Viswanathan,50165
+2342,Full time,Python,Sridevi Viswanathan,50165
+2343,Full time,Java,Shivani Garg,50167
+2344,part time,Java,Shivani Garg,50167
+2345,Full time,C++,Vipin Dhaker,50177
+2346,Full time,C++,Vipin Dhaker,50177
+2347,Full time,Python,Talent Acquisition Line,50185
+2348,part time,Wordpress,Jai Singh,50191
+2349,Full time,SAP FICO,Venkatesh Palani,50192
+2350,Full time,Python,Ravi Dubey,50195
+2351,Full time,Wordpress,Jai Singh,50191
+2352,part time,Wordpress,Jai Singh,50191
+2353,Full time,Playwright,Aarti Singh,50203
+2354,Full time,Java,Ghowsalya B,50210
+2355,Full time,Customer Interaction,Anusha J,50211
+2356,part time,Playwright,Aarti Singh,50203
+2357,Full time,Java,Ghowsalya B,50210
+2358,Full time,Java,Ghowsalya B,50210
+2359,Full time,Python,Pramita Kumari Sahu,50224
+2360,part time,Python,Pramita Kumari Sahu,50224
+2361,Full time,Python,Bhavna Rana,50232
+2362,Full time,SAS,Megha B,50236
+2363,Full time,Product Management,Swati S Bhardwaj,50238
+2364,part time,Java,Arun Kumar,50245
+2365,Full time,AWS,Venkatesh Tangirala,50247
+2366,Full time,React.js,Omkar Sonawane,50124
+2367,Full time,React.js,Omkar Sonawane,50124
+2368,part time,React.js,Omkar Sonawane,50124
+2369,Full time,AWS,Venkatesh Tangirala,50247
+2370,Full time,React.js,Omkar Sonawane,50124
+2371,Full time,React.js,Omkar Sonawane,50124
+2372,part time,Node.js,Simran Khanna,50269
+2373,Full time,Cloud Computing,Balaji Sundaravadivel,50280
+2374,Full time,Java,Akriti Dwivedi,50043
+2375,Full time,Cloud Computing,Balaji Sundaravadivel,50280
+2376,part time,Linux,Tejashree L,50290
+2377,Full time,Wordpress,Jai Singh,50191
+2378,Full time,Brand Management,Kusha Bedre,50294
+2379,Full time,Product Lifecycle Management,Sandhiya S,50300
+2380,part time,Playwright,Aarti Singh,50203
+2381,Full time,Salesforce,Swapnil Khandare,50312
+2382,Full time,Playwright,Aarti Singh,50203
+2383,Full time,Maximo,Priyanka Paul,50319
+2384,part time,Java,Naga Sravanthi,50320
+2385,Full time,Python,Reshma Dsouza,50147
+2386,Full time,Python,Himani Goyal,50323
+2387,Full time,CSS,Neer Varshney,50329
+2388,part time,Angular,Consult Bae,50334
+2389,Full time,JavaScript,Rini Shah,50348
+2390,Full time,Google Ads,Richa Anchan,50356
+2391,Full time,Business Development,Kanika Agarwal,50357
+2392,part time,Wireframing,Nitya Dhingra,50358
+2393,Full time,ASP.NET,Zoya Khan,50359
+2394,Full time,React.js,Omkar Sonawane,50124
+2395,Full time,Node.js,Ankit Dhiman,50369
+2396,part time,React.js,Omkar Sonawane,50124
+2397,Full time,React.js,Omkar Sonawane,50124
+2398,Full time,Video Editing,Pashaula Hima,50389
+2399,Full time,React.js,Omkar Sonawane,50124
+2400,part time,Playwright,Aarti Singh,50203
+2401,Full time,Node.js,Aarthi P,50394
+2402,Full time,React.js,Omkar Sonawane,50124
+2403,Full time,React.js,Omkar Sonawane,50124
+2404,part time,React.js,Omkar Sonawane,50124
+2405,Full time,React.js,Omkar Sonawane,50124
+2406,Full time,React.js,Omkar Sonawane,50124
+2407,Full time,React.js,Dheeraj Bhardwaj,50401
+2408,part time,React.js,Omkar Sonawane,50124
+2409,Full time,React.js,Omkar Sonawane,50124
+2410,Full time,Java,Selvi U,50129
+2411,Full time,Python,Talent Acquisition Line,50185
+2412,part time,React.js,Omkar Sonawane,50124
+2413,Full time,React.js,Omkar Sonawane,50124
+2414,Full time,React.js,Omkar Sonawane,50124
+2415,Full time,React.js,Omkar Sonawane,50124
+2416,part time,React.js,Omkar Sonawane,50124
+2417,Full time,Node.js,Shubham,50410
+2418,Full time,React.js,Omkar Sonawane,50124
+2419,Full time,Customer Service,Ayushi Aeran,50430
+2420,part time,Google Ads,Sneha Suresh,50432
+2421,Full time,Google Ads,Sneha Suresh,50432
+2422,Full time,Google Ads,Sneha Suresh,50432
+2423,Full time,DevOps,Hari Shankar,50440
+2424,part time,DevOps,Hari Shankar,50440
+2425,Full time,Customer Interaction,Anusha J,50211
+2426,Full time,Java,Joti Bala,50447
+2427,Full time,Python,Pramita Kumari Sahu,50224
+2428,part time,DevOps,Hari Shankar,50440
+2429,Full time,PHP,Qikrecruit,50459
+2430,Full time,DevOps,Hari Shankar,50440
+2431,Full time,Android,Khushi Dubey,50350
+2432,part time,Manual Testing,Sharmila M,50472
+2433,Full time,Wireframing,Ruchi Gupta,50478
+2434,Full time,Ruby on Rails,Srijan Tiwari,50486
+2435,Full time,Python,Arun Sreenivasan,50488
+2436,part time,Game Development,Karthick Loganathan,50493
+2437,Full time,Product Management,Ruchi Brahmbhatt,50505
+2438,Full time,Product Management,Ruchi Brahmbhatt,50505
+2439,Full time,Product Management,Ruchi Brahmbhatt,50505
+2440,part time,Java,Mayur M L,50511
+2441,Full time,Java,Mayur M L,50511
+2442,Full time,Java,Angelina Tiwari,50109
+2443,Full time,Java,Abhilash Darshi,50127
+2444,part time,Wordpress,Jai Singh,50191
+2445,Full time,Java,Abhilash Darshi,50127
+2446,Full time,Golang,Dipti Singh,50548
+2447,Full time,Wireframing,Ruchi Gupta,50478
+2448,part time,Distributed Systems,Ravi Dubey,50053
+2449,Full time,React.js,Shruti Aggarwal,50566
+2450,Full time,React.js,Shruti Aggarwal,50566
+2451,Full time,Python,Arun Sreenivasan,50488
+2452,part time,CSS,Samridhi Sindhu,50584
+2453,Full time,JavaScript,Gaurav Gupta,50586
+2454,Full time,Django,Aashiya,50594
+2455,Full time,Playwright,Aarti Singh,50203
+2456,part time,Business Development,Kalpana Prasanna,50599
+2457,Full time,PoS,Vijay Tekumudi,50604
+2458,Full time,React.js,Gunjan Anand,50372
+2459,Full time,Java,Abhilash Darshi,50127
+2460,part time,React.js,Gunjan Anand,50372
+2461,Full time,Python,Sweta Barman,50316
+2462,Full time,Playwright,Aarti Singh,50203
+2463,Full time,JavaScript,Adarsha Kumari,50651
+2464,part time,Java,Shivani Garg,50167
+2465,Full time,C,Anoushka Goswami,50657
+2466,Full time,.NET,Ritu Ranwa,50650
+2467,Full time,Flutter,Anoushka Goswami,50667
+2468,part time,2D Animation,Saroj Kumar Sahoo,50670
+2469,Full time,React.js,Abhishek Singh,50672
+2470,Full time,PoS,Vijay Tekumudi,50604
+2471,Full time,Wireframing,Nitya Dhingra,50358
+2472,part time,Python,Pramita Kumari Sahu,50224
+2473,Full time,Java,Abhilash Darshi,50127
+2474,Full time,iOS,Jyoti Mehta,50686
+2475,Full time,C,Anoushka Goswami,50657
+2476,part time,Playwright,Aarti Singh,50203
+2477,Full time,Playwright,Aarti Singh,50203
+2478,Full time,Business Development,Jyotsana Singh,50703
+2479,Full time,Playwright,Aarti Singh,50203
+2480,part time,Python,Pramita Kumari Sahu,50224
+2481,Full time,Playwright,Aarti Singh,50203
+2482,Full time,MySQL,Meenal Sharma,50529
+2483,Full time,Playwright,Aarti Singh,50203
+2484,part time,Big Data,Sahil Dua,50720
+2485,Full time,Playwright,Aarti Singh,50203
+2486,Full time,Customer Interaction,Anusha J,50211
+2487,Full time,Playwright,Aarti Singh,50203
+2488,part time,Playwright,Aarti Singh,50203
+2489,Full time,Playwright,Aarti Singh,50203
+2490,Full time,Business Development,Jyotsana Singh,50703
+2491,Full time,Business Development,Jyotsana Singh,50703
+2492,part time,React.js,Omkar Sonawane,50124
+2493,Full time,React.js,Omkar Sonawane,50124
+2494,Full time,React.js,Omkar Sonawane,50124
+2495,Full time,Content Marketing,Soumya A,50741
+2496,part time,React.js,Aasha Jeniffer,50742
+2497,Full time,React.js,Omkar Sonawane,50124
+2498,Full time,React.js,Omkar Sonawane,50124
+2499,Full time,React.js,Omkar Sonawane,50124
+2500,part time,Product Management,Tejal Kushalkar,50757
+2501,Full time,HR Operations,John Anthony Naveen,50761
+2502,Full time,Java,Angelina Tiwari,50109
+2503,Full time,Content Marketing,Soumya A,50741
+2504,part time,Golang,Sandhya Suresh,50023
+2505,Full time,Java,Naga Sravanthi,50320
+2506,Full time,CSS,Sheetal Gong,50783
+2507,Full time,Performance Marketing,Drashti Dawda,50789
+2508,part time,2D Animation,Ashwani Bhat,50790
+2509,Full time,PHP,Abhishek Choudhury,50815
+2510,Full time,Microsoft SCCM,Sravani Krishna,50818
+2511,Full time,Computer Vision,Deebaj Mir,50823
+2512,part time,Azure Logic Apps,Yashaswini N,50827
+2513,Full time,Azure Logic Apps,Yashaswini N,50827
+2514,Full time,Azure Logic Apps,Yashaswini N,50827
+2515,Full time,Azure Logic Apps,Yashaswini N,50827
+2516,part time,Azure Logic Apps,Yashaswini N,50827
+2517,Full time,React.js,Sharmila M,50832
+2518,Full time,React.js,Sharmila M,50832
+2519,Full time,React.js,Sharmila M,50832
+2520,part time,Azure Logic Apps,Yashaswini N,50827
+2521,Full time,.NET,Mani Sha,50851
+2522,Full time,Java,Saranya R,50252
+2523,Full time,Java,Blessy Fernandes,50856
+2524,part time,Python,Sridevi Viswanathan,50165
+2525,Full time,Python,Sridevi Viswanathan,50165
+2526,Full time,Android,Vandana Saxena,50859
+2527,Full time,Big Data,Sahil Dua,50720
+2528,part time,Golang,Abin Chandra,50870
+2529,Full time,Python,Aparna Rajkhowa,50882
+2530,Full time,Java,Akriti Dwivedi,50043
+2531,Full time,Ruby on Rails,Srijan Tiwari,50486
+2532,part time,Ruby on Rails,Srijan Tiwari,50486
+2533,Full time,Cash Flow Management,Kusha Bedre,50912
+2534,Full time,ETL,S Kamala,50913
+2535,Full time,ETL,S Kamala,50913
+2536,part time,JavaScript,Ayyappan Paramasivam,50920
+2537,Full time,SQL,Vamika Malhotra,50922
+2538,Full time,Big Data,Sahil Dua,50720
+2539,Full time,Big Data,Sahil Dua,50720
+2540,part time,Data Structures,Vikrant Dhoundiyal,50688
+2541,Full time,Big Data,Sahil Dua,50720
+2542,Full time,Big Data,Sahil Dua,50720
+2543,Full time,Node.js,Gangadhara Reddy,50155
+2544,part time,Node.js,Gangadhara Reddy,50155
+2545,Full time,Node.js,Gangadhara Reddy,50155
+2546,Full time,Agile,Namish Chandaliya,50936
+2547,Full time,Python,Sanskruti Pattanaik,50939
+2548,part time,Python,Omkar Sonawane,50950
+2549,Full time,Python,Sanskruti Pattanaik,50939
+2550,Full time,IT Infrastructure,Kusha Bedre,50967
+2551,Full time,Java,Priyal,50366
+2552,part time,Campus Recruitment,Deepak Singh,50975
+2553,Full time,Redux,Sharmila M,50979
+2554,Full time,Wireframing,Ruchi Gupta,50478
+2555,Full time,Wireframing,Nitya Dhingra,50358
+2556,part time,.NET,Venkatesh Palani,50579
+2557,Full time,React.js,Himanshu Suman,50995
+2558,Full time,Java,Omkar Sonawane,50444
+2559,Full time,Java,Ankit Sinha,50014
+2560,part time,JavaScript,Nivetha,50998
+2561,Full time,Java,Akriti Dwivedi,50043
+2562,Full time,Python,Anwesha Chakraborty,51013
+2563,Full time,Wireframing,Nitya Dhingra,50358
+2564,part time,Java,Subashree B,51019
+2565,Full time,Payroll Management,Mohit Sharma,51027
+2566,Full time,Customer Relationship,Ishita Mahajan,50005
+2567,Full time,Product Management,Anjali Nair,50009
+2568,part time,Flutter,Shruti Verma,50015
+2569,Full time,Compensation Management,Mayank Singh,50024
+2570,Full time,Node.js,Roshan Muniraj,50047
+2571,Full time,Java,Arun Sreenivasan,50049
+2572,part time,Python,Anjali Sinha,50059
+2573,Full time,Swift,Nikita Sah,50060
+2574,Full time,Python,Arun Sreenivasan,50064
+2575,Full time,Swift,Nikita Sah,50060
+2576,part time,SQL,Blessy Fernandes,50090
+2577,Full time,Rust,Ankita Hiremath,50097
+2578,Full time,Firewalls,Divyanshu Singh,50100
+2579,Full time,Product Management,Yash Singh,50102
+2580,part time,Firewalls,Divyanshu Singh,50100
+2581,Full time,HTML,Rahul Kumar,50143
+2582,Full time,Business Development,Deepa Kushwaha,50149
+2583,Full time,Java,Divya Chhabra,50173
+2584,part time,Compensation Management,Mayank Singh,50024
+2585,Full time,Compensation Management,Mayank Singh,50024
+2586,Full time,Machine Learning,Akanksha Pandey,50176
+2587,Full time,Java,Roshan Muniraj,50205
+2588,part time,.NET,Chandni Oli,50223
+2589,Full time,.NET,Chandni Oli,50223
+2590,Full time,Angular,Siddhartha S,50226
+2591,Full time,Java,Roshan Muniraj,50205
+2592,part time,Python,Anjali Sinha,50059
+2593,Full time,Python,Anjali Sinha,50059
+2594,Full time,Java,Supriya K,50250
+2595,Full time,Java,Supriya K,50250
+2596,part time,Product Management,Ayushi Rawat,50264
+2597,Full time,Consumer Software,Shraddha Jhamb,50265
+2598,Full time,Java,Supriya K,50250
+2599,Full time,Automation Testing,Rekha Singh,50279
+2600,part time,CSS,Sonal Thakre,50291
+2601,Full time,Sales Operations,Sakshi Dhiman,50301
+2602,Full time,Python,Anjali Sinha,50059
+2603,Full time,Customer Service,Momeena A,50306
+2604,part time,Python,Anjali Sinha,50059
+2605,Full time,Java,Omkar Sonawane,50317
+2606,Full time,Java,Supriya K,50250
+2607,Full time,Business Development,Shubham Karwariya,50326
+2608,part time,SQL,Blessy Fernandes,50090
+2609,Full time,Java,Pallavi Chauhan,50339
+2610,Full time,Java,Omkar Sonawane,50317
+2611,Full time,Java,Sweta Barman,50376
+2612,part time,JavaScript,Hrd CTE International,50382
+2613,Full time,DevOps,Soham Bhattacharjee,50386
+2614,Full time,Python,Anjali Sinha,50059
+2615,Full time,Java,Roshan Muniraj,50205
+2616,part time,Java,Vishal Chaudhary,50396
+2617,Full time,Java,Vishal Chaudhary,50396
+2618,Full time,Java,Roshan Muniraj,50205
+2619,Full time,JavaScript,Rohini N,50400
+2620,part time,Java,Sweta Barman,50376
+2621,Full time,Java,Divya Chhabra,50173
+2622,Full time,Business Development,Rishi Thomas,50407
+2623,Full time,Java,Omkar Sonawane,50317
+2624,part time,Java,Roshan Muniraj,50205
+2625,Full time,Java,Omkar Sonawane,50317
+2626,Full time,Python,Anjali Sinha,50059
+2627,Full time,Python,Anjali Sinha,50059
+2628,part time,Channel Sales,Hitesh Gupta,50421
+2629,Full time,Employee Engagement,Shivani Kukreja,50423
+2630,Full time,Corporate Sales,Krishibha Sharma,50428
+2631,Full time,DevOps,Hari Shankar,50440
+2632,part time,Flutter,Ayushi Sharma,50454
+2633,Full time,Java,Omkar Sonawane,50317
+2634,Full time,Machine Learning,Akanksha Pandey,50176
+2635,Full time,Java,Supriya K,50250
+2636,part time,Java,Omkar Sonawane,50317
+2637,Full time,Java,Aneesh Vikram,50275
+2638,Full time,Java,Garima Maheshwari,50492
+2639,Full time,Node.js,Roshan Muniraj,50047
+2640,part time,Operations Management,Emily Mondal,50509
+2641,Full time,API Testing,Pardeep Singh,50524
+2642,Full time,Java,Supriya K,50250
+2643,Full time,Python,Anjali Sinha,50059
+2644,part time,Google Ads,Shivika Bhatnagar,50534
+2645,Full time,Education Counselling,Atharv Dhopte,50535
+2646,Full time,Sales,Monica Kaushik,50536
+2647,Full time,Sales,Pardeep Singh,50540
+2648,part time,Java,Supriya K,50250
+2649,Full time,React.js,Roshan Muniraj,50541
+2650,Full time,Java,Harish Sagar,50267
+2651,Full time,PHP,Srishti Aswal,50549
+2652,part time,Spring,Kiran Bisht,50552
+2653,Full time,Python,Anjali Sinha,50059
+2654,Full time,Java,Anamika Ojha,50574
+2655,Full time,Java,Rishabh Wadhwa,50577
+2656,part time,Python,Anjali Sinha,50059
+2657,Full time,Java,Shivani Garg,50167
+2658,Full time,Education Counselling,Atharv Dhopte,50535
+2659,Full time,Selenium,Srishti Rai,50591
+2660,part time,Selenium,Srishti Rai,50591
+2661,Full time,ASP.NET,Manju Singh,50601
+2662,Full time,Python,Anjali Sinha,50059
+2663,Full time,Java,Garima Maheshwari,50492
+2664,part time,Channel Sales,Hitesh Gupta,50421
+2665,Full time,Python,Anjali Sinha,50059
+2666,Full time,React.js,Shruti Aggarwal,50620
+2667,Full time,React.js,Shruti Aggarwal,50620
+2668,part time,Digital Marketing,Arun Sreenivasan,50631
+2669,Full time,Python,Anjali Sinha,50059
+2670,Full time,Education Counselling,Atharv Dhopte,50535
+2671,Full time,Java,Garima Maheshwari,50492
+2672,part time,Budgeting,Yukta Jain,50668
+2673,Full time,Java,Rishabh Wadhwa,50577
+2674,Full time,Java,Supriya K,50250
+2675,Full time,JavaScript,Sanjay Parihar,50678
+2676,part time,Python,Purvi Aggarwal,50683
+2677,Full time,Data Structures,Vikrant Dhoundiyal,50688
+2678,Full time,Product Management,Yamini Mahajan,50693
+2679,Full time,Business Development,Kashish Sharma,50701
+2680,part time,AWS,Riya Jumnani,50715
+2681,Full time,SQL,Nikita Sah,50402
+2682,Full time,Java,Supriya K,50250
+2683,Full time,TAT,Priya Desai,50729
+2684,part time,Game Development,Rajan Gupta,50321
+2685,Full time,Python,Anjali Sinha,50059
+2686,Full time,Python,Anjali Sinha,50059
+2687,Full time,Java,Divya Chhabra,50173
+2688,part time,Golang,Mubina,50748
+2689,Full time,Sales,Venkatesh Uci,50751
+2690,Full time,Sales,Venkatesh Uci,50751
+2691,Full time,React.js,Roshan Muniraj,50541
+2692,part time,Python,Anjali Sinha,50059
+2693,Full time,Java,Supriya K,50250
+2694,Full time,DevOps,Rohini N,50769
+2695,Full time,React.js,Shruti Aggarwal,50620
+2696,part time,Product Management,Anjali Nair,50009
+2697,Full time,Java,Divya Chhabra,50173
+2698,Full time,Business Development,Kashish Sharma,50701
+2699,Full time,Angular,Siddhartha S,50226
+2700,part time,Angular,Siddhartha S,50226
+2701,Full time,Angular,Siddhartha S,50226
+2702,Full time,Java,Roshan Muniraj,50205
+2703,Full time,Java,Divya Chhabra,50173
+2704,part time,Civil Engineering,Consult Bae,50803
+2705,Full time,Microsoft Excel,Sanchit Gambhir,50816
+2706,Full time,Content Marketing,Hr Vehiclecare,50830
+2707,Full time,Content Marketing,Hr Vehiclecare,50830
+2708,part time,Python,Anjali Sinha,50059
+2709,Full time,Microsoft Excel,Kusha Bedre,50841
+2710,Full time,HR Operations,Madhulika Samala,50857
+2711,Full time,Android,Vandana Saxena,50859
+2712,part time,Java,Sneha Halimani,50158
+2713,Full time,Java,Vishal Chaudhary,50396
+2714,Full time,Python,Anjali Sinha,50059
+2715,Full time,Manual Testing,Hardik Dhamija,50868
+2716,part time,Terraform,Nitya Dhingra,50872
+2717,Full time,Java,Kavita Kaushik,50876
+2718,Full time,Sales,Mohit Sharma,50881
+2719,Full time,Business Development,Vidisha,50884
+2720,part time,Customer Relationship,Rituparna Borah,50885
+2721,Full time,Java,Pallavi Chauhan,50339
+2722,Full time,Java,Pallavi Chauhan,50339
+2723,Full time,Spark,Arun Sreenivasan,50892
+2724,part time,Java,Venkat Raman,50771
+2725,Full time,Java,Supriya K,50250
+2726,Full time,Java,Supriya K,50250
+2727,Full time,Python,Anjali Sinha,50059
+2728,part time,Angular,Siddhartha S,50226
+2729,Full time,Content Marketing,Kailuni Lanah,50904
+2730,Full time,Java,Omkar Sonawane,50317
+2731,Full time,JavaScript,Rohini N,50400
+2732,part time,Microsoft Dynamics,Peri Vegada,50914
+2733,Full time,Microsoft Dynamics,Peri Vegada,50914
+2734,Full time,Machine Learning,Akanksha Pandey,50176
+2735,Full time,Java,Supriya K,50250
+2736,part time,Java,Supriya K,50250
+2737,Full time,Java,Supriya K,50250
+2738,Full time,Java,Arun Sreenivasan,50927
+2739,Full time,Java,Arun Sreenivasan,50927
+2740,part time,API Testing,Pardeep Singh,50524
+2741,Full time,Java,Manish Nirwal,50928
+2742,Full time,Java,Supriya K,50250
+2743,Full time,Java,Supriya K,50250
+2744,part time,General Management,Isha Makhijani,50946
+2745,Full time,JavaScript,Rohini N,50400
+2746,Full time,JavaScript,Rohini N,50400
+2747,Full time,Machine Learning,Akanksha Pandey,50176
+2748,part time,Machine Learning,Akanksha Pandey,50176
+2749,Full time,Data Structures,Vikrant Dhoundiyal,50688
+2750,Full time,Corporate Communication,Ritika Duhan,50980
+2751,Full time,Java,Vishakha Tyagi,50011
+2752,part time,Angular,Siddhartha S,50226
+2753,Full time,Python,Anjali Sinha,50059
+2754,Full time,Python,Anjali Sinha,50059
+2755,Full time,Azure,Shubham,50992
+2756,part time,Customer Relationship,Rituparna Borah,50885
+2757,Full time,Customer Relationship,Rituparna Borah,50885
+2758,Full time,Java,Kartik Negi,50996
+2759,Full time,Laravel,Kartik Negi,51000
+2760,part time,Sales,Raghav Singla,51001
+2761,Full time,Sales,Rahul Mishra,51008
+2762,Full time,Sales,Rahul Mishra,51008
+2763,Full time,Customer Service,Pratibha Adhikari,51012
+2764,part time,Content Marketing,Mayank Singh,51017
+2765,Full time,Java,Supriya K,50250
+2766,Full time,Channel Sales,Hitesh Gupta,50421
+2767,Full time,Business Development,Divya Rani,51018
+2768,part time,Business Development,Divya Rani,51018
+2769,Full time,API Testing,Pardeep Singh,50524
+2770,Full time,Sales,Priyanka,50453
+2771,Full time,Consumer Software,Shraddha Jhamb,50265
+2772,part time,C++,Vamika Malhotra,50003
+2773,Full time,C++,Vamika Malhotra,50003
+2774,Full time,SQL,Anupam Gandhi,50007
+2775,Full time,Java,Asha L,50034
+2776,part time,.NET,Deepa Sudhir,50042
+2777,Full time,Business Development,Thulasi D,50057
+2778,Full time,CSS,Subbu N,50063
+2779,Full time,Databricks,Ramya Tanya,50072
+2780,part time,Java,Savita Sarangi,50086
+2781,Full time,SQL,Anupam Gandhi,50007
+2782,Full time,Java,Raghu Tenneti,50101
+2783,Full time,Corporate Sales,Ranjith Ammu,50111
+2784,part time,Java,Apurva Nidavani,50119
+2785,Full time,Python,Surya S,50128
+2786,Full time,Business Development,Bhuvan Polepally,50159
+2787,Full time,JavaScript,Krishit Goud,50169
+2788,part time,Python,Prakhar Mehrotra,50182
+2789,Full time,Python,Prakhar Mehrotra,50182
+2790,Full time,Python,Prakhar Mehrotra,50182
+2791,Full time,Product Management,Ashmita Kumari,50198
+2792,part time,Java,Asha L,50034
+2793,Full time,Oracle HCM,Muni Reddy Yerrappa,50214
+2794,Full time,Python,Careers Caw,50037
+2795,Full time,Java,Vidya Vm,50257
+2796,part time,Python,Archana Manne,50271
+2797,Full time,Python,Kavya Dodda,50272
+2798,Full time,Microservices,Monica Shiney Jeyam,50297
+2799,Full time,Python,Arun Ks,50305
+2800,part time,Java,Vidya Vm,50257
+2801,Full time,Java,Vidya Vm,50257
+2802,Full time,Consumer Software,Ashish K,50362
+2803,Full time,Python,Prakhar Mehrotra,50182
+2804,part time,Python,Prakhar Mehrotra,50182
+2805,Full time,Python,Prakhar Mehrotra,50182
+2806,Full time,Java,Thanusha Reddy,50384
+2807,Full time,Python,Prakhar Mehrotra,50182
+2808,part time,Java,Rajesh N,50411
+2809,Full time,Python,Prakhar Mehrotra,50182
+2810,Full time,Digital Signal Processing (DSP),Joanna Lee,50417
+2811,Full time,Java,Vidya Vm,50257
+2812,part time,Python,Prakhar Mehrotra,50182
+2813,Full time,Quickbase,Bindu Rishi,50419
+2814,Full time,Python,Surya S,50128
+2815,Full time,Java,Aneesh Vikram,50275
+2816,part time,Postman,Neha Khaitan,50424
+2817,Full time,Business Development,Sunitha Mudiraj,50434
+2818,Full time,Business Development,Sunitha Mudiraj,50434
+2819,Full time,Business Development,Sunitha Mudiraj,50434
+2820,part time,Azure,Omkar Sonawane,50462
+2821,Full time,Python,Prakhar Mehrotra,50182
+2822,Full time,Python,Prakhar Mehrotra,50182
+2823,Full time,Python,Prakhar Mehrotra,50182
+2824,part time,Product Management,Deepika Agarwal,50551
+2825,Full time,Python,Prakhar Mehrotra,50182
+2826,Full time,Java,Vidya Vm,50257
+2827,Full time,DevOps,Talent Acquisition Team,50583
+2828,part time,.NET,Deepa Sudhir,50042
+2829,Full time,Business Development,Sony Naresh IT,50617
+2830,Full time,Java,Asha L,50034
+2831,Full time,Java,Asha L,50034
+2832,part time,Java,Archana Manne,50635
+2833,Full time,Risk Management,Meenu,50448
+2834,Full time,Java,Vidya Vm,50257
+2835,Full time,Oracle HCM,Leelavathi Lalammala,50596
+2836,part time,Java,Vidya Vm,50257
+2837,Full time,Data Structures,Rohit Dutt,50669
+2838,Full time,Java,Vidya Vm,50257
+2839,Full time,Java,Shubham,50674
+2840,part time,Java,Raghu Tenneti,50101
+2841,Full time,ASP.NET,Venkatesh Palani,50681
+2842,Full time,Android,Nimisha Sharma,50685
+2843,Full time,Performance Testing,Reshma Gutha,50696
+2844,part time,Java,Priyanka Gaur,50680
+2845,Full time,Python,Prakhar Mehrotra,50182
+2846,Full time,Java,Vidya Vm,50257
+2847,Full time,Python,Prakhar Mehrotra,50182
+2848,part time,C++,Vamika Malhotra,50003
+2849,Full time,C++,Vamika Malhotra,50003
+2850,Full time,Azure,Omkar Sonawane,50462
+2851,Full time,Java,Rohit Gajjala,50730
+2852,part time,Java,Thanusha Reddy,50384
+2853,Full time,Java,Thanusha Reddy,50384
+2854,Full time,Java,Thanusha Reddy,50384
+2855,Full time,Java,Harshitha Macha,50736
+2856,part time,Java,Harshitha Macha,50736
+2857,Full time,Business Development,Bhuvan Polepally,50159
+2858,Full time,Java,Vidya Vm,50257
+2859,Full time,Business Development,Sony Naresh IT,50617
+2860,part time,Business Development,Bhuvan Polepally,50159
+2861,Full time,C++,Ishita Goyal,50756
+2862,Full time,C++,Ishita Goyal,50756
+2863,Full time,Python,Prakhar Mehrotra,50182
+2864,part time,Customer Interaction,Tanisha Ray,50758
+2865,Full time,Cloud Computing,Valentina Dsouza,50760
+2866,Full time,C++,Vamika Malhotra,50003
+2867,Full time,C++,Vamika Malhotra,50003
+2868,part time,JavaScript,Dipanjan Das,50763
+2869,Full time,C++,Vamika Malhotra,50003
+2870,Full time,C++,Vamika Malhotra,50003
+2871,Full time,Java,Venkat Raman,50771
+2872,part time,Python,Prakhar Mehrotra,50182
+2873,Full time,Java,Asha L,50034
+2874,Full time,Java,Asha L,50034
+2875,Full time,Python,Prakhar Mehrotra,50182
+2876,part time,Business Development,Jhansi Patnaikuni,50812
+2877,Full time,Business Development,Jhansi Patnaikuni,50812
+2878,Full time,Java,Asha L,50034
+2879,Full time,Business Development,Thulasi D,50057
+2880,part time,Computer Vision,Om Prakash Gaddam,50829
+2881,Full time,Java,Thanusha Reddy,50384
+2882,Full time,Python,Prakhar Mehrotra,50182
+2883,Full time,.NET,Rajesh M,50854
+2884,part time,Angular,Karthik Sutrave,50866
+2885,Full time,Scala,Twinkle Bhatnagar,50871
+2886,Full time,Digital Signal Processing (DSP),Joanna Lee,50417
+2887,Full time,Python,Prakhar Mehrotra,50182
+2888,part time,Digital Signal Processing (DSP),Joanna Lee,50417
+2889,Full time,Python,Prakhar Mehrotra,50182
+2890,Full time,Java,Venkat Raman,50771
+2891,Full time,Automation Testing,Bhawana Singh,50283
+2892,part time,Python,Prakhar Mehrotra,50182
+2893,Full time,Python,Prakhar Mehrotra,50182
+2894,Full time,Java,Venkat Raman,50771
+2895,Full time,Automation Testing,Bhawana Singh,50283
+2896,part time,Data Streaming,Hari Prasad,50906
+2897,Full time,Python,Prakhar Mehrotra,50182
+2898,Full time,Java,Akriti Singh,50405
+2899,Full time,Python,Prakhar Mehrotra,50182
+2900,part time,ASP.NET,Venkatesh Palani,50681
+2901,Full time,Business Development,Jhansi Patnaikuni,50812
+2902,Full time,Python,Prakhar Mehrotra,50182
+2903,Full time,Python,Prakhar Mehrotra,50182
+2904,part time,Java,Vidya Vm,50257
+2905,Full time,Power BI,Omkar Sonawane,50938
+2906,Full time,Python,Prakhar Mehrotra,50182
+2907,Full time,Python,Prakhar Mehrotra,50182
+2908,part time,Python,Prakhar Mehrotra,50182
+2909,Full time,CSS,Saran Vura,50948
+2910,Full time,Business Development,Jhansi Patnaikuni,50812
+2911,Full time,Python,Prakhar Mehrotra,50182
+2912,part time,Java,Akriti Singh,50405
+2913,Full time,Java,Vidya Vm,50257
+2914,Full time,Python,Prakhar Mehrotra,50182
+2915,Full time,Direct Sales,Venkata Satya Deepya,50527
+2916,part time,Java,Venkat Raman,50771
+2917,Full time,Automation Testing,Bhawana Singh,50283
+2918,Full time,Python,Prakhar Mehrotra,50182
+2919,Full time,UX Design,Ratna Kumar S,50985
+2920,part time,UX Design,Ratna Kumar S,50985
+2921,Full time,Python,Prakhar Mehrotra,50182
+2922,Full time,Python,Prakhar Mehrotra,50182
+2923,Full time,Python,Prakhar Mehrotra,50182
+2924,part time,Python,Prakhar Mehrotra,50182
+2925,Full time,UX Design,Ratna Kumar S,50985
+2926,Full time,UX Design,Ratna Kumar S,50985
+2927,Full time,Java,Venkat Raman,50771
+2928,part time,Python,Prakhar Mehrotra,50182
+2929,Full time,Python,Prakhar Mehrotra,50182
+2930,Full time,UX Design,Ratna Kumar S,50985
+2931,Full time,Python,Prakhar Mehrotra,50182
+2932,part time,Python,Prakhar Mehrotra,50182
+2933,Full time,Python,Prakhar Mehrotra,50182
+2934,Full time,Python,Prakhar Mehrotra,50182
+2935,Full time,Python,Prakhar Mehrotra,50182
+2936,part time,.NET,Haripriya Reddy,50990
+2937,Full time,Java,Akriti Singh,50405
+2938,Full time,Python,Prakhar Mehrotra,50182
+2939,Full time,.NET,Pavan Kumar,51011
+2940,part time,C++,Vamika Malhotra,50003
+2941,Full time,Java,Thanusha Reddy,50384
+2942,Full time,Java,Shanthi Y,51026
+2943,Full time,MSDS,Blessy Fernandes,50025
+2944,part time,AWS,Sunil Sethi,50080
+2945,Full time,Customer Interaction,Suchin S,50130
+2946,Full time,Java,Prathamlok,50132
+2947,Full time,Java,Uneza Khan,50148
+2948,part time,Java,Uneza Khan,50148
+2949,Full time,Node.js,Gangadhara Reddy,50155
+2950,Full time,Sales,Recruiter At YNM,50156
+2951,Full time,SAP ERP,Sachin K J,50164
+2952,part time,Sales,Mansi Goyal,50170
+2953,Full time,Sales,Priyanka Patra,50193
+2954,Full time,Java,Shivani Garg,50167
+2955,Full time,Java,Shivani Garg,50167
+2956,part time,Java,Shivani Garg,50167
+2957,Full time,Java,Shivani Garg,50167
+2958,Full time,Java,Shivani Garg,50167
+2959,Full time,Non IT Recruitment,Shreya Rajgopal,50213
+2960,part time,Corporate Sales,Swapnil Nautiyal,50220
+2961,Full time,Investment Advisory,Suraj Gupta,50249
+2962,Full time,2D Animation,Neha Bowlekar,50256
+2963,Full time,2D Animation,Neha Bowlekar,50256
+2964,part time,Node.js,Gangadhara Reddy,50155
+2965,Full time,Angular,Basif Akram,50277
+2966,Full time,Salesforce,Blessy Fernandes,50328
+2967,Full time,Salesforce,Blessy Fernandes,50328
+2968,part time,Recruitment,Shubha Naik,50336
+2969,Full time,Data Warehousing,Omkar Sonawane,50311
+2970,Full time,Business Development,Nagesh Nandala,50352
+2971,Full time,Business Development,Sonali Betkar,50353
+2972,part time,Business Development,Sonali Betkar,50353
+2973,Full time,Java,Sanober Shaikh,50367
+2974,Full time,JavaScript,Swati Agrawal,50383
+2975,Full time,Corporate Sales,Anjali Parakkal,50387
+2976,part time,.NET,Samiksha M,50388
+2977,Full time,Kotlin,Muskan Singh,50399
+2978,Full time,Kotlin,Muskan Singh,50399
+2979,Full time,Java,Uneza Khan,50148
+2980,part time,Java,Priyanka A G,50075
+2981,Full time,Java,Niharika Sharma,50295
+2982,Full time,Java,Priyanka A G,50075
+2983,Full time,Java,Priyanka A G,50075
+2984,part time,Java,Priyanka A G,50075
+2985,Full time,Customer Interaction,Mukti Shetty,50437
+2986,Full time,Customer Interaction,Mukti Shetty,50437
+2987,Full time,Channel Sales,Abhishek Singh Bhadoria,50438
+2988,part time,Back Office Operations,Meenal Sharma,50439
+2989,Full time,Content Writing,Akshita Agarwal,50446
+2990,Full time,Corporate Sales,Swapnil Nautiyal,50449
+2991,Full time,Angular,Rohini N,50450
+2992,part time,Social Media Marketing,Blessy Fernandes,50463
+2993,Full time,Business Development,Kavya Dodda,50473
+2994,Full time,Business Development,Heenal Thakrar,50519
+2995,Full time,Web Scraping,Rayal Rajan,50530
+2996,part time,Java,Feroj Sayyad,50557
+2997,Full time,PHP,Selvakumar S,50260
+2998,Full time,Data Warehousing,Omkar Sonawane,50311
+2999,Full time,Accounting,Gourab Saha,50603
+3000,part time,Data Warehousing,Omkar Sonawane,50311
+3001,Full time,Android,Neha Tarkhala,50605
+3002,Full time,Android,Neha Tarkhala,50605
+3003,Full time,Android,Neha Tarkhala,50605
+3004,part time,Manual Testing,Qikrecruit,50611
+3005,Full time,React.js,Anjali Nair,50622
+3006,Full time,Brand Management,Khushi Dubey,50623
+3007,Full time,Digital Marketing,Garima Bhardwaj,50625
+3008,part time,Automation Testing,Khushi Dubey,50638
+3009,Full time,General Management,Shubham Kedia,50640
+3010,Full time,BFSI,Jayasuma M,50373
+3011,Full time,Angular,Priya Arora,50661
+3012,part time,Angular,Priya Arora,50661
+3013,Full time,General Management,Shubham Kedia,50640
+3014,Full time,General Management,Shubham Kedia,50640
+3015,Full time,Angular,Rohini N,50450
+3016,part time,Node.js,Geeti,50679
+3017,Full time,CSS,Stawan Kamani,50697
+3018,Full time,Manual Testing,Sayali Thakur,50698
+3019,Full time,Manual Testing,Sayali Thakur,50698
+3020,part time,Manual Testing,Sayali Thakur,50698
+3021,Full time,Manual Testing,Sayali Thakur,50698
+3022,Full time,Node.js,Geeti,50679
+3023,Full time,Manual Testing,Sayali Thakur,50698
+3024,part time,Java,Priyanka Gaur,50680
+3025,Full time,Java,Prathamlok,50132
+3026,Full time,CSS,Sukumari Poojari,50727
+3027,Full time,Node.js,Sangeeta Poojari,50735
+3028,part time,Accounting,Jagruti Surve,50754
+3029,Full time,Corporate Sales,Anjali Parakkal,50387
+3030,Full time,Node.js,Geeti,50679
+3031,Full time,Node.js,Geeti,50679
+3032,part time,Corporate Sales,Ritesh Singh,50766
+3033,Full time,Recruitment,Samiksha M,50775
+3034,Full time,Kotlin,Muskan Singh,50399
+3035,Full time,Brand Management,Khushi Dubey,50623
+3036,part time,Azure,Sonica Singh,50377
+3037,Full time,Automation Testing,Vidhi Jain,50794
+3038,Full time,Java,Asha L,50810
+3039,Full time,Sales,Divya Shah Nandi,50811
+3040,part time,Java,Ilakkiya R,50691
+3041,Full time,Accounting,Jagruti Surve,50754
+3042,Full time,Customer Interaction,Mukti Shetty,50437
+3043,Full time,Java,Asha L,50810
+3044,part time,Image Processing,Prakhar Mehrotra,50644
+3045,Full time,Image Processing,Prakhar Mehrotra,50644
+3046,Full time,JavaScript,Ashay Vishwakarma,50846
+3047,Full time,PMO,Uloapp A New Wave Of Living,50847
+3048,part time,Sales,Radhey Krishn,50588
+3049,Full time,PHP,Selvakumar S,50260
+3050,Full time,Project Management,Ananya Pandey,50861
+3051,Full time,PHP,Selvakumar S,50260
+3052,part time,PHP,Selvakumar S,50260
+3053,Full time,Product Management,Shivangi Singh,50862
+3054,Full time,Selenium,Ramya Tanya,50873
+3055,Full time,Node.js,Sukant Kumar,50877
+3056,part time,Digital Marketing,Ansa Swereva,50893
+3057,Full time,Social Media Marketing,Blessy Fernandes,50463
+3058,Full time,Brand Management,Shalini Kumar,50898
+3059,Full time,Angular,Haseena Banu,50900
+3060,part time,Angular,Haseena Banu,50900
+3061,Full time,Angular,Haseena Banu,50900
+3062,Full time,Java,Asha L,50810
+3063,Full time,Automation Testing,Bhawana Singh,50283
+3064,part time,Java,Prathamlok,50132
+3065,Full time,Agile,Namish Chandaliya,50936
+3066,Full time,Corporate Sales,Anjali Parakkal,50387
+3067,Full time,Corporate Sales,Anjali Parakkal,50387
+3068,part time,Machine Learning,Kamini Singh,50951
+3069,Full time,Product Management,Ruchi Brahmbhatt,50505
+3070,Full time,Manual Testing,Ankita Sharma,50968
+3071,Full time,Manual Testing,Ankita Sharma,50968
+3072,part time,Angular,Basif Akram,50277
+3073,Full time,Content Marketing,Nikita Apandkar,50984
+3074,Full time,Legal Compliance,Samiksha M,50986
+3075,Full time,AWS,Sunil Sethi,50080
+3076,part time,CSS,Stawan Kamani,50697
+3077,Full time,Six Sigma Black Belt,Heena Makhijani,51005
+3078,Full time,Node.js,Roshan Muniraj,50047
+3079,Full time,BPO Operations,Benjamin S,50019
+3080,part time,SDET,Ankita Yadav,50038
+3081,Full time,MongoDB,Pardeep Singh,50146
+3082,Full time,Java,Chandramouli Careersahead,50151
+3083,Full time,Java,Chandramouli Careersahead,50151
+3084,part time,Cloud Security,Arashpreet Kaur,50163
+3085,Full time,Motion Graphics,Madhulika Khatri,50204
+3086,Full time,C++,Srikanth Alladi,50219
+3087,Full time,Python,Nikki Bhoj,50228
+3088,part time,Business Development,Tulika Srivastava,50253
+3089,Full time,Business Development,Preeti Sadaiya,50258
+3090,Full time,Sales,Asmita Gupta,50278
+3091,Full time,Business Development,Atharv Trivedi,50284
+3092,part time,Node.js,Kanupriya Bhatia,50293
+3093,Full time,Business Development,Balvinder Singh,50299
+3094,Full time,Java,Shivani Garg,50167
+3095,Full time,JavaScript,Vinod Kumar,50255
+3096,part time,Python,Agniv Debnath,50308
+3097,Full time,Python,Agniv Debnath,50308
+3098,Full time,2D Animation,Mehul Jain,50342
+3099,Full time,Node.js,Maninder Singh,50354
+3100,part time,Node.js,Maninder Singh,50354
+3101,Full time,Sales,Asmita Gupta,50278
+3102,Full time,Java,Priyal,50366
+3103,Full time,Channel Sales,Damini Hanotia,50420
+3104,part time,Channel Sales,Damini Hanotia,50420
+3105,Full time,Java,Navya C M,50006
+3106,Full time,Risk Management,Meenu,50448
+3107,Full time,HTML,Manjari Rastogi,50451
+3108,part time,Reception Management,Vinay Garg,50455
+3109,Full time,HTML,Manjari Rastogi,50451
+3110,Full time,Python,Agniv Debnath,50308
+3111,Full time,Azure,Priyanka Sharma,50487
+3112,part time,Azure,Priyanka Sharma,50487
+3113,Full time,Reception Management,Vinay Garg,50455
+3114,Full time,Java,Jasvinder Singh,50512
+3115,Full time,Sales,Asmita Gupta,50278
+3116,part time,Hybrid Apps,Himanshu G,50523
+3117,Full time,MySQL,Meenal Sharma,50529
+3118,Full time,IT Infrastructure,Rashi Mehta,50543
+3119,Full time,US Recruitment,Anamika Singh,50578
+3120,part time,US Recruitment,Anamika Singh,50578
+3121,Full time,Lightning Web Components,Simran Gulati,50580
+3122,Full time,Business Development,Ankita Maurya,50585
+3123,Full time,Java,Kanchan Rajbhar,50556
+3124,part time,Node.js,Kanupriya Bhatia,50293
+3125,Full time,Java,Manjari Rastogi,50078
+3126,Full time,Customer Service,Sneha Khatri,50632
+3127,Full time,Business Development,Mamta Pandey,50643
+3128,part time,Business Development,Omka Tech,50656
+3129,Full time,Agile,Vaibhav Singh,50659
+3130,Full time,Hyperion Planning,Girija Perumal,50282
+3131,Full time,Agile,Vaibhav Singh,50659
+3132,part time,Business Development,Shruti Singh,50750
+3133,Full time,Performance Testing,Reshma Gutha,50696
+3134,Full time,.NET,Nisha Sharma,50773
+3135,Full time,MySQL,Anita Gautam,50781
+3136,part time,MySQL,Anita Gautam,50781
+3137,Full time,MySQL,Anita Gautam,50781
+3138,Full time,Motion Graphics,Madhulika Khatri,50204
+3139,Full time,CSS,Neha Singh,50835
+3140,part time,Java,Toshi Bhilwar,50839
+3141,Full time,Python,Agniv Debnath,50308
+3142,Full time,Social Media Marketing,Ananya Pandey,50863
+3143,Full time,Node.js,Kanupriya Bhatia,50293
+3144,part time,JavaScript,Deepika Prajapati,50867
+3145,Full time,Node.js,Kanupriya Bhatia,50293
+3146,Full time,Angular,Haseena Banu,50900
+3147,Full time,Business Development,Kajal Mansoori,50902
+3148,part time,Business Development,Kajal Mansoori,50902
+3149,Full time,Business Development,Kajal Mansoori,50902
+3150,Full time,Motion Graphics,Madhulika Khatri,50204
+3151,Full time,Business Development,Urvashi Yadav,50907
+3152,part time,Java,Shivani Garg,50167
+3153,Full time,Motion Graphics,Madhulika Khatri,50204
+3154,Full time,Business Development,Muskan Bhushan,50932
+3155,Full time,Java,Priyal,50366
+3156,part time,Java,Priyal,50366
+3157,Full time,Business Development,Azram Fatima,50955
+3158,Full time,Python,Manish Nirwal,50957
+3159,Full time,Python,Manish Nirwal,50957
+3160,part time,Sales,Vinay Garg,50966
+3161,Full time,Android,Ambika Vishwakarma,50994
+3162,Full time,Sales,Deepshikha Dubey,50349
+3163,Full time,Azure,Priyanka Sharma,50487
+3164,part time,Compensation Management,Mayank Singh,50024
+3165,Full time,Agile,Vaibhav Singh,50659
+3166,Full time,Business Development,Omka Tech,50656
+3167,Full time,Amazon Redshift,Bhavya Verma,50033
+3168,part time,JavaScript,Harshita Saraswat,50036
+3169,Full time,Java,Keerthana Ramaswamy,50040
+3170,Full time,Java,Deepika Kangokar,50098
+3171,Full time,Java,Archana Manne,50107
+3172,part time,Java,Archana Manne,50107
+3173,Full time,Sales,Lekha R,50116
+3174,Full time,Business Development,Uma Maheshwari,50122
+3175,Full time,Java,Archana Manne,50107
+3176,part time,JavaScript,Archana Tr,50190
+3177,Full time,Java,Vijay Balaji,50196
+3178,Full time,Salesforce,Prasanna Rajendran,50230
+3179,Full time,Java,Deepika Kangokar,50098
+3180,part time,Sales,Reeba Arshad,50239
+3181,Full time,Java,Aience Boruah,50259
+3182,Full time,Java,Harish Sagar,50267
+3183,Full time,Simulation,A Prerana Tirkey,50292
+3184,part time,Angular,Kalpana Gaur,50296
+3185,Full time,Java,Divyaa D,50303
+3186,Full time,Java,Asha L,50034
+3187,Full time,Java,Namrata Dutta,50341
+3188,part time,Build Tools,Karthick Natarajan,50364
+3189,Full time,Build Tools,Karthick Natarajan,50364
+3190,Full time,Java,Asha L,50034
+3191,Full time,Java,Deepika Kangokar,50098
+3192,part time,Java,Neela Megan,50379
+3193,Full time,Build Tools,Karthick Natarajan,50364
+3194,Full time,MySQL,Rajni Thakur,50406
+3195,Full time,MySQL,Rajni Thakur,50406
+3196,part time,Sales,Lekha R,50116
+3197,Full time,.NET,Meenakshi Priyadharshini,50436
+3198,Full time,Java,Deepika Kangokar,50098
+3199,Full time,Java,Deepika Kangokar,50098
+3200,part time,Java,Deepika Kangokar,50098
+3201,Full time,HTML,Manjari Rastogi,50451
+3202,Full time,HTML,Manjari Rastogi,50451
+3203,Full time,Java,Asha L,50034
+3204,part time,Business Development,Goven Caleb Raj Cp,50547
+3205,Full time,Angular,Benjamin S,50550
+3206,Full time,Java,Kanchan Rajbhar,50556
+3207,Full time,Java,Sai Sahitya V,50567
+3208,part time,MuleSoft,Srinidhi S,50570
+3209,Full time,PHP,Selvakumar S,50260
+3210,Full time,Java,Kanchan Rajbhar,50556
+3211,Full time,Python,Mohamed Aslam,50613
+3212,part time,Java,Archana Manne,50107
+3213,Full time,Java,Bala Bhaskar,50649
+3214,Full time,Python,Navya C M,50658
+3215,Full time,Java,Sai Sahitya V,50567
+3216,part time,Java,Deepika Kangokar,50098
+3217,Full time,Java,Deepika Kangokar,50098
+3218,Full time,.NET,Rajkumar V,50705
+3219,Full time,.NET,Mohammed Khan,50708
+3220,part time,Java,Asha L,50034
+3221,Full time,Java,Asha L,50034
+3222,Full time,Java,Arun Lazar Jebamani Joseph,50035
+3223,Full time,Java,Savita Sarangi,50086
+3224,part time,AWS,Sonal Shukla,50747
+3225,Full time,Sales,Lekha R,50116
+3226,Full time,Python,Sravani Krishna,50798
+3227,Full time,JavaScript,Keerthana Rajavel,50819
+3228,part time,JavaScript,Keerthana Rajavel,50819
+3229,Full time,Python,Seemi Ejaz,50233
+3230,Full time,.NET,Heruba Chandrasekar,50833
+3231,Full time,Java,Asha L,50034
+3232,part time,Microsoft Dynamics NAV,Afzal Muhammad,50842
+3233,Full time,.NET,Rajkumar V,50705
+3234,Full time,Business Development,Suranjan Barman,50855
+3235,Full time,Java,Keerthana Ramaswamy,50040
+3236,part time,Java,Deepika Kangokar,50098
+3237,Full time,Java,Asha L,50034
+3238,Full time,Snowflake,Santoshi Potnuru,50897
+3239,Full time,Snowflake,Santoshi Potnuru,50897
+3240,part time,Brand Management,Shalini Kumar,50898
+3241,Full time,Business Development,Human Resources Ums,50909
+3242,Full time,Machine Learning,Vidhya Sam,50918
+3243,Full time,Salesforce,Ramya T S,50926
+3244,part time,Java,Savita Sarangi,50086
+3245,Full time,Java,Ilakkiya R,50691
+3246,Full time,AutoCAD,Mahesh Kumar,50958
+3247,Full time,Oracle HCM,Leelavathi Lalammala,50596
+3248,part time,Data Analysis,Monica Gudase,50969
+3249,Full time,Java,Namrata Dutta,50341
+3250,Full time,JavaScript,Rojee R,51007
+3251,Full time,JavaScript,Rojee R,51007
+3252,part time,JavaScript,Rojee R,51020
+3253,Full time,Java,Deepika Kangokar,50098
+3254,Full time,Sales,Navdeep Kaur,50039
+3255,Full time,Python,Nidhi R,50045
+3256,part time,Automation Testing,Aayushi Narayan,50050
+3257,Full time,Content Marketing,Sayan Mondal,50125
+3258,Full time,Life Insurance,Recruiter At YNM,50160
+3259,Full time,Machine Learning,Dhhruval B Modi,50179
+3260,part time,Oracle Fusion Applications,Harish Chandra,50225
+3261,Full time,Hyperion Planning,Girija Perumal,50282
+3262,Full time,Automation Testing,Aayushi Narayan,50050
+3263,Full time,React.js,Omkar Sonawane,50124
+3264,part time,React.js,Omkar Sonawane,50124
+3265,Full time,React.js,Omkar Sonawane,50124
+3266,Full time,React.js,Omkar Sonawane,50124
+3267,Full time,React.js,Omkar Sonawane,50124
+3268,part time,React.js,Omkar Sonawane,50124
+3269,Full time,React.js,Omkar Sonawane,50124
+3270,Full time,React.js,Omkar Sonawane,50124
+3271,Full time,React.js,Omkar Sonawane,50124
+3272,part time,React.js,Omkar Sonawane,50124
+3273,Full time,Loans,Swapnil Nautiyal,50404
+3274,Full time,Java,Sowrabh Rajesh,50445
+3275,Full time,SQL,Omkar Sonawane,50460
+3276,part time,Python,Ankita Yadav,50471
+3277,Full time,Java,Harshitha S,50484
+3278,Full time,Java,Jyotsana Iyer,50546
+3279,Full time,EMEA,Shubham,50560
+3280,part time,Android,Rashmi Jha,50562
+3281,Full time,CI - CD,Nikitaa P,50065
+3282,Full time,Java,Lithin Raj,50602
+3283,Full time,Java,Esha Jain,50266
+3284,part time,Automation Testing,Aayushi Narayan,50050
+3285,Full time,Direct Sales,Monika Naruka,50553
+3286,Full time,Golang,Rachana Seth,50621
+3287,Full time,Node.js,Parmod Nehra,50479
+3288,part time,Java,Kaushiki Krishna Murty,50629
+3289,Full time,Java,Kaushiki Krishna Murty,50629
+3290,Full time,Java,Sowrabh Rajesh,50445
+3291,Full time,Machine Learning,Dhhruval B Modi,50179
+3292,part time,Android,Shraboni Guha,50699
+3293,Full time,Android,Anushree Dhakate,50704
+3294,Full time,React Native,Bhini Tenani,50712
+3295,Full time,Campus Recruitment,Rashi Shetty,50717
+3296,part time,Java,Sruthi P,50719
+3297,Full time,Sales,Shubha Naik,50723
+3298,Full time,SDET,Narkish M,50452
+3299,Full time,CSS,Sukumari Poojari,50727
+3300,part time,UCCE,Priyanshi Singhal,50737
+3301,Full time,Sales,Samiksha M,50753
+3302,Full time,US Healthcare,Khushi Dubey,50759
+3303,Full time,Java,Angelina Tiwari,50109
+3304,part time,Public Relations,Pinnacle Consultz,50692
+3305,Full time,Node.js,Shahida,50804
+3306,Full time,CSS,Sanketa Deshmukh,50807
+3307,Full time,.NET,Mohammed Khan,50708
+3308,part time,Dash,Mahesh Kumar,50844
+3309,Full time,Ruby,Garima Motadoo,50852
+3310,Full time,Business Development,Rakesh Sethi,50853
+3311,Full time,SDET,Narkish M,50452
+3312,part time,SDET,Narkish M,50452
+3313,Full time,Ruby,Garima Motadoo,50852
+3314,Full time,Sales,Durga Prasad Godhana,50891
+3315,Full time,Campus Recruitment,Rashi Shetty,50717
+3316,part time,React Native,Bhini Tenani,50712
+3317,Full time,Campus Recruitment,Rashi Shetty,50717
+3318,Full time,Java,Sowrabh Rajesh,50445
+3319,Full time,Business Development,Bhagyashree W,50940
+3320,part time,Data Analysis,Monica Gudase,50969
+3321,Full time,PHP,Selvakumar S,50260
+3322,Full time,Java,Sowrabh Rajesh,50445
+3323,Full time,Java,Lithin Raj,50602
+3324,part time,Java,Lithin Raj,50602
+3325,Full time,JavaScript,Vinod Gangadhar,51006
+3326,Full time,Sales,Radhey Krishn,50588
+3327,Full time,Sales,Radhey Krishn,50588
+3328,part time,Customer Interaction,Vicky Jindal,50018
+3329,Full time,Customer Relationship,Ishita Mahajan,50005
+3330,Full time,Brand Management,Shalini Maurya,50041
+3331,Full time,Brand Management,Shalini Maurya,50041
+3332,part time,Brand Management,Shalini Maurya,50041
+3333,Full time,JavaScript,Navdeep Kaur,50051
+3334,Full time,JavaScript,Mansi Singla,50068
+3335,Full time,Java,Aarthi P,50073
+3336,part time,Business Development,Farheen Khan,50091
+3337,Full time,Brand Management,Shalini Maurya,50041
+3338,Full time,Business Development,Karishma Bidla,50115
+3339,Full time,Brand Management,Shalini Maurya,50041
+3340,part time,Sales,Ifra Naaz,50142
+3341,Full time,Sales,Ifra Naaz,50142
+3342,Full time,Sales,Madhulika Khatri,50153
+3343,Full time,Microservices,Ardhendu Bikash Acharjee,50168
+3344,part time,.NET,Astha Vig,50208
+3345,Full time,Digital Marketing,Aarthi P,50212
+3346,Full time,Business Development,Pulkit Gaur,50217
+3347,Full time,General Management,Vandana Hirey,50241
+3348,part time,Business Development,Simran Rajput Hr,50244
+3349,Full time,Google Ads,Gaurav Ghosh,50251
+3350,Full time,Business Development,Virtika Sehgal,50281
+3351,Full time,Java,Supriya K,50250
+3352,part time,JavaScript,Amanpreet Singh,50298
+3353,Full time,Tally,Paankhuri Aggarwal,50309
+3354,Full time,Sales,Asmita Gupta,50278
+3355,Full time,Node.js,Raj Jha,50344
+3356,part time,2D Animation,Chanchal Jugran,50391
+3357,Full time,Sales,Ifra Naaz,50142
+3358,Full time,.NET,Vaani Sharma,50443
+3359,Full time,AWS,Himanshu Suman,50469
+3360,part time,Flutter,Rovena Dsouza,50481
+3361,Full time,Project Management,Jyoti Yadav,50500
+3362,Full time,Python,Muskan Grover,50270
+3363,Full time,Flutter,Rovena Dsouza,50481
+3364,part time,Business Development,Saumya Singh,50518
+3365,Full time,Sales,Shilpa Collin,50542
+3366,Full time,Business Development,Revathi Ramakrishnan,50559
+3367,Full time,Loans,Vandana Bali,50564
+3368,part time,Node.js,Raj Jha,50344
+3369,Full time,Sales,Radhey Krishn,50588
+3370,Full time,Automation Testing,Khushi Dubey,50638
+3371,Full time,Sales,Recruiter At YNM,50156
+3372,part time,Node.js,Raj Jha,50344
+3373,Full time,JavaScript,Navdeep Kaur,50051
+3374,Full time,Corporate Tax,Lithin Raj,50721
+3375,Full time,Automation Testing,Mrinali Mahajan,50728
+3376,part time,JavaScript,Ankita Sharma,50732
+3377,Full time,JavaScript,Ankita Sharma,50732
+3378,Full time,JavaScript,Ankita Sharma,50732
+3379,Full time,JavaScript,Niha Lini,50768
+3380,part time,JavaScript,Niha Lini,50768
+3381,Full time,.NET,Vaani Sharma,50443
+3382,Full time,Java,Aarthi P,50073
+3383,Full time,Content Marketing,Aishwarya Goyal,50774
+3384,part time,Inventory Management,Dashmeet Kaur,50799
+3385,Full time,PHP,Selvakumar S,50260
+3386,Full time,Automation Testing,Rekha Singh,50279
+3387,Full time,Sales,Recruiter At YNM,50156
+3388,part time,Microsoft Dynamics,Peri Vegada,50914
+3389,Full time,Content Writing,Soum Paul,50917
+3390,Full time,Corporate Tax,Lithin Raj,50721
+3391,Full time,Compensation Management,Ruchika Garg,50970
+3392,part time,Computer Vision,Shivika Singh,50989
+3393,Full time,Automation Testing,Mrinali Mahajan,50728
+3394,Full time,Business Development,Kanika Saini,51009
+3395,Full time,iOS,Chhavi Mittal,51015
+3396,part time,Digital Marketing,Poonam Gangwal,51024
+3397,Full time,Customer Relationship,Ishita Mahajan,50005
+3398,Full time,Data Analysis,Ekta Sachdeva,50012
+3399,Full time,Customer Service,Akash Pateriya,50021
+3400,part time,Quality Assurance,Himakshi Mathur,50030
+3401,Full time,Python,Careers Caw,50037
+3402,Full time,Quality Assurance,Himakshi Mathur,50030
+3403,Full time,.NET,Deepa Sudhir,50042
+3404,part time,Business Development,Thulasi D,50057
+3405,Full time,Java,Bigscal Hr,50058
+3406,Full time,CSS,Subbu N,50063
+3407,Full time,Java,Shailesh Davra,50067
+3408,part time,Java,Asif Bakhed,50071
+3409,Full time,CSS,Trapti Purohit,50079
+3410,Full time,JavaScript,Grishma Vachhani,50082
+3411,Full time,CSS,Vandana Purohit,50085
+3412,part time,Java,Savita Sarangi,50086
+3413,Full time,Business Development,Marsina Waffa,50095
+3414,Full time,Business Development,Marsina Waffa,50095
+3415,Full time,Business Development,Jahnavi Desai,50108
+3416,part time,Business Development,Karishma Bidla,50115
+3417,Full time,Java,Lekshmi Chandra,50117
+3418,Full time,Java,Lekshmi Chandra,50117
+3419,Full time,.NET,Megha Dobra,50121
+3420,part time,Travel Management,Rachayita Gupta,50138
+3421,Full time,Sales,Mansi Goyal,50152
+3422,Full time,JavaScript,Milankumar Sanandia,50157
+3423,Full time,Cloud Security,Arashpreet Kaur,50163
+3424,part time,Business Development,Shubham Singh,50175
+3425,Full time,Business Development,Shubham Singh,50175
+3426,Full time,HTML,Sreeshma Na,50180
+3427,Full time,.NET,Kanchan Pawar,50189
+3428,part time,SEM,Img Global Infotech HR,50194
+3429,Full time,Java,Eva Mathur,50201
+3430,Full time,Java,Shivani Garg,50167
+3431,Full time,HTML,Sreeshma Na,50180
+3432,part time,HTML,Sreeshma Na,50180
+3433,Full time,Python,Nisha Sharma,50215
+3434,Full time,Java,Raghu Tenneti,50101
+3435,Full time,Power BI,Kirthika T,50218
+3436,part time,Java,Mohit Bhagwani,50221
+3437,Full time,CI - CD,Shama Afroj,50222
+3438,Full time,.NET,Chandni Oli,50223
+3439,Full time,.NET,Chandni Oli,50223
+3440,part time,Java,Priyanka Paul,50227
+3441,Full time,Java,Hardik Vaidya,50240
+3442,Full time,Direct Sales,Priyanka Patra,50248
+3443,Full time,PHP,Selvakumar S,50260
+3444,part time,Java,Aneesh Vikram,50275
+3445,Full time,Java,Aneesh Vikram,50275
+3446,Full time,Python,Muskan Grover,50270
+3447,Full time,Java,Akriti Dwivedi,50043
+3448,part time,Java,Aneesh Vikram,50275
+3449,Full time,Java,Aneesh Vikram,50275
+3450,Full time,Digital Marketing,Haseena Banu,50288
+3451,Full time,CSS,Sabina Sultana,50289
+3452,part time,Java,Shivani Garg,50167
+3453,Full time,Technical Support,Anjali Nair,50318
+3454,Full time,Game Development,Rajan Gupta,50321
+3455,Full time,Brand Management,Madhuri Sandur,50322
+3456,part time,Brand Management,Madhuri Sandur,50322
+3457,Full time,Business Development,Khushboo Bhatia,50324
+3458,Full time,Agile,Sweta Sharma,50331
+3459,Full time,Business Development,Preety,50335
+3460,part time,Business Development,Preety,50335
+3461,Full time,Adobe Experience Manager (AEM),Mirza Begum,50337
+3462,Full time,Java,Raghu Tenneti,50101
+3463,Full time,Python,Technocodz Group Hr Manager,50343
+3464,part time,Customer Interaction,Celina Mittal,50347
+3465,Full time,Sales,Deepshikha Dubey,50349
+3466,Full time,JavaScript,Sujana V,50104
+3467,Full time,Business Development,Subhra Mukherjee,50361
+3468,part time,Java,Priyal,50366
+3469,Full time,JavaScript,Swati Agrawal,50383
+3470,Full time,Active Directory,Aliza Vohra,50392
+3471,Full time,Active Directory,Aliza Vohra,50392
+3472,part time,SQL,Nikita Sah,50402
+3473,Full time,Business Development,Gulshan Jangid,50403
+3474,Full time,.NET,Devi Palanisamy,50414
+3475,Full time,Java,Aneesh Vikram,50275
+3476,part time,Java,Priyanka A G,50075
+3477,Full time,Java,Priyanka A G,50075
+3478,Full time,Java,Priyanka A G,50075
+3479,Full time,Java,Priyanka A G,50075
+3480,part time,Channel Sales,Hitesh Gupta,50421
+3481,Full time,Channel Sales,Hitesh Gupta,50421
+3482,Full time,Java,Priyanka A G,50075
+3483,Full time,Java,Priyanka A G,50075
+3484,part time,Java,Priyanka A G,50075
+3485,Full time,Java,Priyanka A G,50075
+3486,Full time,Java,Priyanka A G,50075
+3487,Full time,Java,Priyanka A G,50075
+3488,part time,Java,Priyanka A G,50075
+3489,Full time,Java,Priyanka A G,50075
+3490,Full time,Java,Priyanka A G,50075
+3491,Full time,Java,Priyanka A G,50075
+3492,part time,Java,Priyanka A G,50075
+3493,Full time,Java,Priyanka A G,50075
+3494,Full time,Java,Priyanka A G,50075
+3495,Full time,Java,Priyanka A G,50075
+3496,part time,Business Development,Advita Karkera,50426
+3497,Full time,Business Development,Advita Karkera,50426
+3498,Full time,Business Development,Advita Karkera,50426
+3499,Full time,Business Development,Advita Karkera,50426
+3500,part time,Business Development,Advita Karkera,50426
+3501,Full time,Business Development,Advita Karkera,50426
+3502,Full time,Business Development,Advita Karkera,50426
+3503,Full time,Business Development,Advita Karkera,50426
+3504,part time,Business Development,Advita Karkera,50426
+3505,Full time,Business Development,Advita Karkera,50426
+3506,Full time,Java,Pallavi Choudhary,50427
+3507,Full time,Java,Niharika Sharma,50295
+3508,part time,Java,Niharika Sharma,50295
+3509,Full time,Java,Aneesh Vikram,50275
+3510,Full time,Java,Aneesh Vikram,50275
+3511,Full time,Angular,Priyansha Arora Sheher,50431
+3512,part time,Angular,Priyansha Arora Sheher,50431
+3513,Full time,Java,Aneesh Vikram,50275
+3514,Full time,Java,Aneesh Vikram,50275
+3515,Full time,Java,Aneesh Vikram,50275
+3516,part time,Back Office Operations,Meenal Sharma,50439
+3517,Full time,Back Office Operations,Meenal Sharma,50439
+3518,Full time,Angular,Ayushi Srivastava,50441
+3519,Full time,Customer Interaction,Amit Kumar,50468
+3520,part time,.NET,Satish Agrawal,50476
+3521,Full time,Business Intelligence,C J Rahul David,50482
+3522,Full time,Brand Management,Hr Am,50496
+3523,Full time,CSS,Shivam Dev,50499
+3524,part time,2D Animation,Richa Mishra,50520
+3525,Full time,CI - CD,Nikitaa P,50065
+3526,Full time,Java,Asif Bakhed,50071
+3527,Full time,Build Tools,Sriaravind T,50528
+3528,part time,Build Tools,Sriaravind T,50528
+3529,Full time,Java,Aikya Chakraborty,50537
+3530,Full time,Java,Savita Sarangi,50086
+3531,Full time,Java,Savita Sarangi,50086
+3532,part time,JavaScript,Ultivic Private Limited,50539
+3533,Full time,Java,Harish Sagar,50267
+3534,Full time,Java,Harish Sagar,50267
+3535,Full time,Adobe Premiere Pro,Harshit Lokhande,50545
+3536,part time,Business Intelligence,C J Rahul David,50482
+3537,Full time,Linux,Vishal Chaudhary,50504
+3538,Full time,Linux,Vishal Chaudhary,50504
+3539,Full time,JavaScript,Rashmi Agarwal,50555
+3540,part time,JavaScript,Rashmi Agarwal,50555
+3541,Full time,Java,Kalpana Choudhary,50565
+3542,Full time,Java,Kalpana Choudhary,50565
+3543,Full time,Hybrid Apps,Himanshu G,50523
+3544,part time,.NET,Khushi Bumb,50571
+3545,Full time,Game Development,Karthick Loganathan,50493
+3546,Full time,Java,Vishakha Tyagi,50011
+3547,Full time,Business Development,Akanksha Dwivedi,50573
+3548,part time,Business Development,Akanksha Dwivedi,50573
+3549,Full time,Java,Asif Bakhed,50071
+3550,Full time,Business Development,Pankaj Yadav,50587
+3551,Full time,Sales,Radhey Krishn,50588
+3552,part time,CSS,Vincent Vicario,50589
+3553,Full time,CSS,Vincent Vicario,50589
+3554,Full time,Java,Kanchan Rajbhar,50556
+3555,Full time,Java,Kanchan Rajbhar,50556
+3556,part time,Sales,Deepshikha Dubey,50349
+3557,Full time,Sales,Deepshikha Dubey,50349
+3558,Full time,Sales,Deepshikha Dubey,50349
+3559,Full time,Sales,Radhey Krishn,50588
+3560,part time,Business Development,Kumutha Natarajan,50597
+3561,Full time,Java,Akriti Dwivedi,50043
+3562,Full time,JavaScript,Rashmi Agarwal,50555
+3563,Full time,Sales,Minal Darve,50607
+3564,part time,.NET,Deepa Sudhir,50042
+3565,Full time,Golang,Hardik Thapa,50614
+3566,Full time,Automation Testing,Amrita Patwal,50616
+3567,Full time,Golang,Rachana Seth,50621
+3568,part time,Java,Vishakha Tyagi,50011
+3569,Full time,Business Development,Archana Gupta,50627
+3570,Full time,Python,Mohamed Aslam,50613
+3571,Full time,Credit Underwriting,Swapnil Nautiyal,50634
+3572,part time,Sales,Deepshikha Dubey,50349
+3573,Full time,Image Processing,Prakhar Mehrotra,50644
+3574,Full time,Java,Shailesh Davra,50067
+3575,Full time,Business Development,Archana Gupta,50627
+3576,part time,Sales,Deepshikha Dubey,50349
+3577,Full time,Sales,Deepshikha Dubey,50349
+3578,Full time,Sales,Deepshikha Dubey,50349
+3579,Full time,.NET,Ritu Ranwa,50650
+3580,part time,Java,Logeshwari Somu,50654
+3581,Full time,Java,Priyanka Gaur,50680
+3582,Full time,SQL,Team Goalkeep,50682
+3583,Full time,Blockchain,Manjusha M,50684
+3584,part time,Business Development,Subhra Mukherjee,50361
+3585,Full time,Java,Supriya K,50687
+3586,Full time,Marketing,Shreeraj Kurup,50689
+3587,Full time,.NET,Shreeraj Kurup,50690
+3588,part time,Business Development,Subhra Mukherjee,50361
+3589,Full time,ASP.NET,Suchismita De,50694
+3590,Full time,CSS,Stawan Kamani,50697
+3591,Full time,JavaScript,Muskan Jaiswal,50702
+3592,part time,JavaScript,Muskan Jaiswal,50702
+3593,Full time,C,Tripti Machal,50706
+3594,Full time,CSS,Mansi Gor,50707
+3595,Full time,CSS,Mansi Gor,50707
+3596,part time,Golang,Nipunika Reddy,50710
+3597,Full time,Golang,Nipunika Reddy,50710
+3598,Full time,Golang,Nipunika Reddy,50710
+3599,Full time,Customer Service,Akash Pateriya,50021
+3600,part time,C,Thenambika S,50713
+3601,Full time,Java,Krishna Chaitanya Reddy Katta KC,50112
+3602,Full time,Java,Krishna Chaitanya Reddy Katta KC,50112
+3603,Full time,Java,Arun Kumar,50245
+3604,part time,Golang,Hardik Thapa,50614
+3605,Full time,Business Development,Marsina Waffa,50095
+3606,Full time,Business Development,Marsina Waffa,50095
+3607,Full time,CSS,Mansi Gor,50707
+3608,part time,CSS,Mansi Gor,50707
+3609,Full time,MySQL,Meenal Sharma,50529
+3610,Full time,IT Infrastructure,Renjith Kumar Nataraj,50725
+3611,Full time,Automation Testing,Mariya Pius,50726
+3612,part time,PHP,Subhashish S,50593
+3613,Full time,Java,Raghu Tenneti,50101
+3614,Full time,Java,Rohit Gajjala,50730
+3615,Full time,Java,Rohit Gajjala,50730
+3616,part time,Java,Rohit Gajjala,50730
+3617,Full time,Sales,Urvashi Gowda,50731
+3618,Full time,Java,Rohit Gajjala,50730
+3619,Full time,Customer Relationship,Ishita Mahajan,50005
+3620,part time,Java,Bigscal Hr,50058
+3621,Full time,Java,Apurva Shetty,50738
+3622,Full time,Java,Apurva Shetty,50738
+3623,Full time,International Sales,Venkhatesh Ayyappan,50739
+3624,part time,Business Development,Subhra Mukherjee,50361
+3625,Full time,Computer Vision,Tulika Shome,50744
+3626,Full time,CSS,Ekta Singh,50745
+3627,Full time,.NET,Anirudh Singhania,50746
+3628,part time,.NET,Anirudh Singhania,50746
+3629,Full time,.NET,Anirudh Singhania,50746
+3630,Full time,Java,Navdeep Kaur,50186
+3631,Full time,Recruitment,Karuna Pandey,50749
+3632,part time,Hybrid Apps,Himanshu G,50523
+3633,Full time,Angular,Hr Manager,50755
+3634,Full time,Cloud Computing,Valentina Dsouza,50760
+3635,Full time,Java,Angelina Tiwari,50109
+3636,part time,Business Development,Mehak Valecha,50765
+3637,Full time,Java,Raghu Tenneti,50101
+3638,Full time,JavaScript,Niha Lini,50768
+3639,Full time,JavaScript,Niha Lini,50768
+3640,part time,JavaScript,Niha Lini,50768
+3641,Full time,JavaScript,Niha Lini,50768
+3642,Full time,Java,Raghu Tenneti,50101
+3643,Full time,Content Marketing,Aishwarya Goyal,50774
+3644,part time,Java,Priyanka Paul,50227
+3645,Full time,MySQL,Rajni Thakur,50406
+3646,Full time,Kafka,Technocodz Group Hr Manager,50780
+3647,Full time,Business Development,Subhra Mukherjee,50361
+3648,part time,CI - CD,Harshit Sharma,50786
+3649,Full time,Node.js,Barbie Gupta,50787
+3650,Full time,Java,Rohit Gajjala,50730
+3651,Full time,Python,Mohamed Aslam,50613
+3652,part time,Business Development,Siddhartha S,50791
+3653,Full time,Business Development,Marvel Infocomm,50792
+3654,Full time,Business Development,Saloni Verma,50795
+3655,Full time,ASP.NET,Rohit Vaish,50797
+3656,part time,Java,Sam Abhilash,50800
+3657,Full time,PHP,Selvakumar S,50260
+3658,Full time,PHP,Selvakumar S,50260
+3659,Full time,PHP,Selvakumar S,50260
+3660,part time,PHP,Selvakumar S,50260
+3661,Full time,Business Development,Subhra Mukherjee,50361
+3662,Full time,Java,HR Recruiter S Consultancy,50814
+3663,Full time,Data Mining,Mandeep Chauhan,50817
+3664,part time,Java,HR Recruiter S Consultancy,50814
+3665,Full time,PHP,Technocodz Group Hr Manager,50822
+3666,Full time,Java,Supriya K,50687
+3667,Full time,Content Marketing,Sonali Nagpal,50824
+3668,part time,JavaScript,Keerthana Rajavel,50819
+3669,Full time,Golang,Nipunika Reddy,50710
+3670,Full time,Golang,Nipunika Reddy,50710
+3671,Full time,Golang,Nipunika Reddy,50710
+3672,part time,Power BI,Kirthika T,50218
+3673,Full time,SAP BO,Neha Soni,50655
+3674,Full time,PHP,Selvakumar S,50260
+3675,Full time,PHP,Selvakumar S,50260
+3676,part time,Python,Nisha Jinger,50834
+3677,Full time,Hybrid Apps,Alok Kale,50845
+3678,Full time,Automation Testing,Rekha Singh,50279
+3679,Full time,Java,Priyanka Kaushal,50340
+3680,part time,.NET,Rajkumar V,50705
+3681,Full time,Business Development,Suranjan Barman,50855
+3682,Full time,HR Operations,Madhulika Samala,50857
+3683,Full time,Customer Service,Suchetana Paul,50858
+3684,part time,Customer Service,Suchetana Paul,50858
+3685,Full time,Customer Service,Suchetana Paul,50858
+3686,Full time,Android,Vandana Saxena,50859
+3687,Full time,Android,Vandana Saxena,50859
+3688,part time,Java,Esha Jain,50266
+3689,Full time,Python,Shweta Kumari,50865
+3690,Full time,Python,Shweta Kumari,50865
+3691,Full time,React.js,Rencia Dsouza,50869
+3692,part time,React.js,Rencia Dsouza,50869
+3693,Full time,Java,Keerthana Ramaswamy,50040
+3694,Full time,Manual Testing,Hardik Dhamija,50868
+3695,Full time,Java,Keerthana Ramaswamy,50040
+3696,part time,Java,Keerthana Ramaswamy,50040
+3697,Full time,CSS,Soumya Kerkar,50875
+3698,Full time,CSS,Soumya Kerkar,50875
+3699,Full time,Java,Bidyut Ganguly,50849
+3700,part time,Java,Bidyut Ganguly,50849
+3701,Full time,Java,Bidyut Ganguly,50849
+3702,Full time,Java,Bidyut Ganguly,50849
+3703,Full time,Java,Aneesh Vikram,50275
+3704,part time,Java,Aneesh Vikram,50275
+3705,Full time,Quality Assurance,Surabhi Deo,50895
+3706,Full time,Brand Management,Shalini Kumar,50898
+3707,Full time,CRM,Sakshi Bhardwaj,50901
+3708,part time,Data Streaming,Hari Prasad,50906
+3709,Full time,Java,Anandamoyee Nandiroy,50181
+3710,Full time,Business Development,Human Resources Ums,50909
+3711,Full time,Business Development,Kamlesh Tiwari,50915
+3712,part time,Python,Seemi Ejaz,50233
+3713,Full time,Golang,Vaibhav Gupta,50916
+3714,Full time,Golang,Vaibhav Gupta,50916
+3715,Full time,Sales,Deepshikha Dubey,50349
+3716,part time,Sales,Deepshikha Dubey,50349
+3717,Full time,Google Ads,Ridhi Bengani,50924
+3718,Full time,Angular,Faizal Eledath,50934
+3719,Full time,Angular,Faizal Eledath,50934
+3720,part time,Android,Alfin Babu,50935
+3721,Full time,Android,Alfin Babu,50935
+3722,Full time,Agile,Namish Chandaliya,50936
+3723,Full time,Project Management,Surendhar D,50941
+3724,part time,Java,Hardik Vaidya,50240
+3725,Full time,Business Development,Paramveer Pupneja,50945
+3726,Full time,Java,Raghu Tenneti,50101
+3727,Full time,Java,Angelina Tiwari,50109
+3728,part time,Flutter,Harsh Sharma,50949
+3729,Full time,Machine Learning,Kamini Singh,50951
+3730,Full time,Java,Shruti Talapatra,50609
+3731,Full time,Java,Shruti Talapatra,50609
+3732,part time,Product Management,Ruchi Brahmbhatt,50505
+3733,Full time,Product Management,Ruchi Brahmbhatt,50505
+3734,Full time,Salesforce,Yashpreet Kaur,50959
+3735,Full time,Python,Debadrita Das,50960
+3736,part time,MySQL,Vivek Gohil,50961
+3737,Full time,Technical Support,Anjali Nair,50318
+3738,Full time,Technical Support,Anjali Nair,50318
+3739,Full time,Business Development,Srinivasa Govindraju,50666
+3740,part time,Data Analysis,Monica Gudase,50969
+3741,Full time,Data Analysis,Monica Gudase,50969
+3742,Full time,Data Analysis,Monica Gudase,50969
+3743,Full time,Compensation Management,Ruchika Garg,50970
+3744,part time,Compensation Management,Ruchika Garg,50970
+3745,Full time,Customer Interaction,Atif Khan,50971
+3746,Full time,Non IT Recruitment,Priya Yadav,50973
+3747,Full time,Python,Mohamed Aslam,50613
+3748,part time,Java,Venkat Raman,50771
+3749,Full time,Java,Angelina Tiwari,50109
+3750,Full time,Java,Angelina Tiwari,50109
+3751,Full time,Java,Angelina Tiwari,50109
+3752,part time,Java,Shivani Garg,50167
+3753,Full time,Java,Shivani Garg,50167
+3754,Full time,PHP,Selvakumar S,50260
+3755,Full time,Java,Keerthana Ramaswamy,50040
+3756,part time,Corporate Communication,Ritika Duhan,50980
+3757,Full time,Python,Nivedita Semwal,50982
+3758,Full time,Python,Agniv Debnath,50308
+3759,Full time,Python,Agniv Debnath,50308
+3760,part time,Java,Hardik Vaidya,50240
+3761,Full time,Salesforce,Yashpreet Kaur,50959
+3762,Full time,Java,Anandamoyee Nandiroy,50181
+3763,Full time,Computer Vision,Shivika Singh,50989
+3764,part time,Sales,Deepshikha Dubey,50349
+3765,Full time,Sales,Deepshikha Dubey,50349
+3766,Full time,Sales,Deepshikha Dubey,50349
+3767,Full time,Java,Silky Malik,50997
+3768,part time,Java,Arun Kumar,50245
+3769,Full time,Sales,Madhulika Khatri,50999
+3770,Full time,CSS,Stawan Kamani,50697
+3771,Full time,CSS,Stawan Kamani,50697
+3772,part time,International Sales,Priyanshu Sharma,51003
+3773,Full time,International Sales,Priyanshu Sharma,51003
+3774,Full time,Java,Eva Mathur,50201
+3775,Full time,Sales,Meenal Agre,51014
+3776,part time,HTML,Sreeshma Na,50180
+3777,Full time,HTML,Sreeshma Na,50180
+3778,Full time,HTML,Sreeshma Na,50180
+3779,Full time,Customer Service,Akash Pateriya,50021
+3780,part time,PHP,Niraj Madavdiya,51021
+3781,Full time,PHP,Niraj Madavdiya,51021
+3782,Full time,Java,Shruti Talapatra,50609
+3783,Full time,Business Development,Subhra Mukherjee,50361
+3784,part time,iOS,Hr Nimblechapps,51028
+3785,Full time,.NET,Ritu Ranwa,50650
+3786,Full time,Java,Raghu Tenneti,50101
